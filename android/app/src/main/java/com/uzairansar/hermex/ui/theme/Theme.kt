@@ -31,35 +31,35 @@ import androidx.core.view.WindowCompat
 private const val HermexRootBackdropKey = "hermex-root-backdrop"
 
 private val LightColors = lightColorScheme(
-    primary = Color(0xFF007AFF),
-    onPrimary = Color(0xFFFFFFFF),
-    secondary = Color(0xFF6D6D72),
-    tertiary = Color(0xFF34C759),
-    background = Color(0xF5F4F7FA),
-    onBackground = Color(0xFF000000),
-    surface = Color(0xFFF8FAFC),
-    onSurface = Color(0xFF000000),
-    surfaceVariant = Color(0xFFF2F2F7),
-    onSurfaceVariant = Color(0xFF3C3C43),
-    outline = Color(0x4A3C3C43),
-    outlineVariant = Color(0x333C3C43),
-    error = Color(0xFFFF3B30),
+    primary = Color(0xFFF59E0B),            // OLYMPUS orange
+    onPrimary = Color(0xFF0A1628),          // OLYMPUS navy-900
+    secondary = Color(0xFF1E3A5F),          // OLYMPUS navy-700
+    tertiary = Color(0xFFF59E0B),
+    background = Color(0xFFF8FAFC),
+    onBackground = Color(0xFF0A1628),
+    surface = Color(0xFFFFFFFF),
+    onSurface = Color(0xFF0A1628),
+    surfaceVariant = Color(0xFFE2E8F0),
+    onSurfaceVariant = Color(0xFF1E3A5F),
+    outline = Color(0x66F59E0B),
+    outlineVariant = Color(0x331E3A5F),
+    error = Color(0xFFEF4444),
 )
 
 private val DarkColors = darkColorScheme(
-    primary = Color(0xFF0A84FF),
-    onPrimary = Color(0xFFFFFFFF),
-    secondary = Color(0xFF98989D),
-    tertiary = Color(0xFF30D158),
-    background = Color.Black,
-    onBackground = Color(0xFFFFFFFF),
-    surface = Color(0xFF111214),
-    onSurface = Color(0xFFFFFFFF),
-    surfaceVariant = Color(0xFF1C1C1E),
-    onSurfaceVariant = Color(0xFFE5E5EA),
-    outline = Color(0x5CEBEBF5),
-    outlineVariant = Color(0x3DEBEBF5),
-    error = Color(0xFFFF453A),
+    primary = Color(0xFFF59E0B),            // OLYMPUS orange
+    onPrimary = Color(0xFF0A1628),          // navy-900
+    secondary = Color(0xFF3B82F6),          // bright accent
+    tertiary = Color(0xFFF59E0B),
+    background = Color(0xFF0A1628),         // navy-900 base
+    onBackground = Color(0xFFF1F5F9),
+    surface = Color(0xFF1E3A5F),            // navy-700
+    onSurface = Color(0xFFF1F5F9),
+    surfaceVariant = Color(0xFF162238),     // navy-800
+    onSurfaceVariant = Color(0xFFCBD5E1),
+    outline = Color(0x66F59E0B),
+    outlineVariant = Color(0x3DF59E0B),
+    error = Color(0xFFF87171),
 )
 
 private val HermexTypography = Typography(

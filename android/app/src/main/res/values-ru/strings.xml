@@ -1,6 +1,6 @@
 <resources>
-    <string name="app_name">Hermex</string>
-    <string name="share_target_label">Отправить ? Hermex</string>
+    <string name="app_name">OLYMPUS</string>
+    <string name="share_target_label">Отправить ? OLYMPUS</string>
     <string name="shortcut_sessions_short">Сессии</string>
     <string name="shortcut_sessions_long">Сессии</string>
     <string name="shortcut_new_session_short">Новая сессия</string>

@@ -1,13 +1,13 @@
 <resources>
-    <string name="app_name">Hermex</string>
-    <string name="share_target_label">Send to Hermex</string>
+    <string name="app_name">OLYMPUS</string>
+    <string name="share_target_label">Send to OLYMPUS</string>
     <string name="shortcut_sessions_short">Sessions</string>
-    <string name="shortcut_sessions_long">Open Hermex sessions</string>
+    <string name="shortcut_sessions_long">Open OLYMPUS sessions</string>
     <string name="shortcut_new_session_short">New Session</string>
-    <string name="shortcut_new_session_long">Start a new Hermex session</string>
+    <string name="shortcut_new_session_long">Start a new OLYMPUS session</string>
     <string name="shortcut_new_voice_short">Voice Chat</string>
-    <string name="shortcut_new_voice_long">Start a new Hermex voice chat</string>
-    <string name="widget_description">Hermex quick actions</string>
+    <string name="shortcut_new_voice_long">Start a new OLYMPUS voice chat</string>
+    <string name="widget_description">OLYMPUS quick actions</string>
     <string name="widget_subtitle">Jump back into your agent workspace.</string>
     <string name="widget_open_sessions">Sessions</string>
     <string name="widget_new_session">New</string>
