@@ -18,10 +18,19 @@
 <network-security-config>
     <base-config cleartextTrafficPermitted="false">
         <trust-anchors>
+            <!-- Release: só CAs do sistema. User-installed CAs ficam fora pra
+                 prevenir MITM via certificado falso instalado por malware. -->
+            <certificates src="system" />
+        </trust-anchors>
+    </base-config>
+    <debug-overrides>
+        <!-- Debug builds (connected device + emulator): aceita user CAs pra
+             permitir Charles Proxy, mitmproxy, Burp etc durante dev. -->
+        <trust-anchors>
             <certificates src="system" />
             <certificates src="user" />
         </trust-anchors>
-    </base-config>
+    </debug-overrides>
     <domain-config cleartextTrafficPermitted="true">
         <!-- Loopback -->
         <domain includeSubdomains="true">localhost</domain>
