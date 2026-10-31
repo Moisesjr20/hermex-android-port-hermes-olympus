@@ -6,4 +6,5 @@
     <color name="hermex_app_icon_monochrome_light_background">#FEFEFE</color>
     <color name="hermex_app_icon_monochrome_dark_background">#000000</color>
     <color name="hermex_app_icon_disco_background">#010101</color>
+    <color name="hermex_app_icon_default_background">#0A1628</color>
 </resources>
