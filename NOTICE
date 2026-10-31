@@ -1,0 +1,37 @@
+OLYMPUS Mobile for Android
+Copyright (c) 2026 Moises Kyrius / Kyrius
+
+This product is a rebrand (visual + strings + theme + security hardening)
+of:
+
+  hermex-android-port
+  https://github.com/Hungbocluaqua/hermex-android-port
+  Copyright (c) Hungbocluaqua / Uzair Ansar
+  Licensed under MIT License
+
+Which itself integrates with:
+
+  hermes-webui (nesquena)
+  https://github.com/nesquena/hermes-webui
+
+  hermes-agent (Nous Research)
+  https://github.com/NousResearch/hermes-agent
+
+The MIT License of the upstream `Hungbocluaqua/hermex-android-port` is
+preserved in LICENSE and governs this derivative work.
+
+Modifications in this fork include:
+- Full visual rebrand to OLYMPUS brand (logo, colors, typography)
+- 18 locales strings.xml updated from "Hermex" to "OLYMPUS"
+- Material3 theme rewritten with navy (#0A1628) + orange (#F59E0B)
+- Adaptive-icon XMLs added for default icon (API 26+ and API 33+)
+- Network Security Config added: strict TLS, cleartext only on RFC 1918
+- Release signing with Kyrius keystore (SHA256 fingerprint in README)
+- 14 security tests added (tests_cli/test_security.py in companion repo)
+- CI pipeline for signed release builds via GitHub Actions
+
+Package identifier `com.uzairansar.hermex` is preserved to maintain
+install compatibility with the upstream repo during the fork transition.
+
+All modifications are documented in CHANGELOG.md and visible in the
+commit history on GitHub.
