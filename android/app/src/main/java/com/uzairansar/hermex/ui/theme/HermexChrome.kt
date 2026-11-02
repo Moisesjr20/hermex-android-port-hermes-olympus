@@ -44,6 +44,7 @@ import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.Dp
 import androidx.compose.ui.unit.dp
 import com.uzairansar.hermex.R
+import com.uzairansar.hermex.ui.localization.localizedString
 import dev.chrisbanes.haze.HazeState
 import dev.chrisbanes.haze.HazeStyle
 import dev.chrisbanes.haze.HazeTint
@@ -158,7 +159,7 @@ fun HermesHeaderLogo(
                 colorFilter = ColorFilter.tint(tint),
             )
             Text(
-                text = "OLYMPUS",
+                text = localizedString("OLYMPUS"),
                 color = tint,
                 fontWeight = FontWeight.Black,
                 letterSpacing = androidx.compose.ui.unit.TextUnit(
