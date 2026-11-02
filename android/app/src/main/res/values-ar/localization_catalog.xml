@@ -150,7 +150,7 @@
     <string name="l10n_6a72085653e4c5be" formatted="false">"الكل"</string>
     <string name="l10n_319eb3c6955636b2" formatted="false">"كل النماذج..."</string>
     <string name="l10n_4745c5dce5e868dc" formatted="false">"كل الأوقات"</string>
-    <string name="l10n_9ff1f43b6bf2dc97" formatted="false">"اسمح بالوصول إلى الصور لحفظ الصور من Hermex."</string>
+    <string name="l10n_6da9ff48e04a9851" formatted="false">"اسمح بالوصول إلى الصور لحفظ الصور من OLYMPUS."</string>
     <string name="l10n_6be2b6a83af87c2f" formatted="false">"هل لديك خادم بالفعل؟"</string>
     <string name="l10n_bee6e08682695b15" formatted="false">"استخدم الأيقونة الداكنة دائمًا"</string>
     <string name="l10n_af674a970f4ac5b6" formatted="false">"استخدم أيقونة الديسكو دائمًا"</string>
@@ -203,7 +203,7 @@
     <string name="l10n_76163bd10c654bd7" formatted="false">"تصفح اللوحة: %@"</string>
     <string name="l10n_1e810b2f9f05b51a" formatted="false">"تصفّح مساحات العمل وتابع عمل العميل أولًا بأول."</string>
     <string name="l10n_95ae28be3160a877" formatted="false">"قيد التصفح"</string>
-    <string name="l10n_6a57d83c47ce5b34" formatted="false">"يبقى تصفح اللوحة محليًا في Hermex. جعل اللوحة نشطة يغيّر حالة الخادم المشتركة."</string>
+    <string name="l10n_e4e2f3b7e00bf0c5" formatted="false">"يبقى تصفح اللوحة محليًا في OLYMPUS. جعل اللوحة نشطة يغيّر حالة الخادم المشتركة."</string>
     <string name="l10n_bbd80cf7e2ded5ef" formatted="false">"الإصدار"</string>
     <string name="l10n_7e18229655968fa8" formatted="false">"إجراءات مجمعة"</string>
     <string name="l10n_e179e26271f3e00f" formatted="false">"جلسات CLI"</string>
@@ -500,10 +500,6 @@
     <string name="l10n_e95d8a1c78a2e435" formatted="false">"Hermes يعمل على الرد"</string>
     <string name="l10n_4f56108f827cebaf" formatted="false">"اكتمل رد Hermes"</string>
     <string name="l10n_d1cadaea84c1198b" formatted="false">"جلسة Hermes"</string>
-    <string name="l10n_77cde96ca2d45d01" formatted="false">"Hermex"</string>
-    <string name="l10n_9a17d2db6a8055f7" formatted="false">"لا يستطيع Hermex استعادة لوحة مؤرشفة من داخل التطبيق."</string>
-    <string name="l10n_c33659f639454811" formatted="false">"Hermex يحضّر ردًا"</string>
-    <string name="l10n_01a030be51125242" formatted="false">"حدّث Hermex اللوحة، لكنه لا يستطيع تأكيد ما إذا كانت العمليات العاملة قد بدأت. راجع اللوحة الحالية قبل تشغيل الموزّع مرة أخرى."</string>
     <string name="l10n_bb6a69c46c4b1979" formatted="false">"إخفاء مسارات المرفقات"</string>
     <string name="l10n_2981d5547d979457" formatted="false">"يخفي سطر مسار الملف الملحق في رسائلك المرسلة. تظل المرفقات تظهر كمعاينات، ولا يزال الخادم يتلقى المسارات."</string>
     <string name="l10n_b1a5954a483f8f8b" formatted="false">"مرتفع"</string>
@@ -524,7 +520,7 @@
     <string name="l10n_94dc8e4a59fafe99" formatted="false">"التفاعل"</string>
     <string name="l10n_f3068db36e4be906" formatted="false">"تمّت مقاطعة الردّ الحالي وأُدرجت رسالتك في قائمة الانتظار لإرسالها تاليًا."</string>
     <string name="l10n_3895546730917a69" formatted="false">"كانبان"</string>
-    <string name="l10n_8fa296603e98b9fe" formatted="false">"أبقِ Tailscale متصلًا أثناء استخدام Hermex."</string>
+    <string name="l10n_33b5284e433a2569" formatted="false">"أبقِ Tailscale متصلًا أثناء استخدام OLYMPUS."</string>
     <string name="l10n_61737de78417a6fe" formatted="false">"تم إعداد المفتاح"</string>
     <string name="l10n_d1c69a859a9638b2" formatted="false">"الأخير"</string>
     <string name="l10n_17672aec29094ac4" formatted="false">"آخر %lld يوم"</string>
@@ -595,7 +591,7 @@
     <string name="l10n_89c8a2851d1755cf" formatted="false">"الذاكرة"</string>
     <string name="l10n_4779d4bcd6fb9eeb" formatted="false">"فشل إجراء الرسالة"</string>
     <string name="l10n_8bd1e1ee0b36f619" formatted="false">"عدد الرسائل"</string>
-    <string name="l10n_d2dbcb77dcf32674" formatted="false">"راسل Hermex"</string>
+    <string name="l10n_b2bca3e48666175d" formatted="false">"راسل OLYMPUS"</string>
     <string name="l10n_f1702b4686278bec" formatted="false">"الرسائل"</string>
     <string name="l10n_251edc0eb5a82064" formatted="false">"البيانات الوصفية"</string>
     <string name="l10n_e8cd6e3a402a74e8" formatted="false">"الوصول إلى الميكروفون معطّل. فعّله في الإعدادات لاستخدام الإدخال الصوتي."</string>
@@ -670,6 +666,10 @@
     <string name="l10n_93039e609d94a24f" formatted="false">"غير مُعيّن"</string>
     <string name="l10n_4c47884f136b4652" formatted="false">"الإشعارات غير متاحة."</string>
     <string name="l10n_9ce3bd4224c8c178" formatted="false">"موافق"</string>
+    <string name="l10n_eff2852157e6af11" formatted="false">"OLYMPUS"</string>
+    <string name="l10n_9bf3972fc629e063" formatted="false">"لا يستطيع OLYMPUS استعادة لوحة مؤرشفة من داخل التطبيق."</string>
+    <string name="l10n_9b78ccb6a5fff60d" formatted="false">"OLYMPUS يحضّر ردًا"</string>
+    <string name="l10n_7997759f932bb0ae" formatted="false">"حدّث OLYMPUS اللوحة، لكنه لا يستطيع تأكيد ما إذا كانت العمليات العاملة قد بدأت. راجع اللوحة الحالية قبل تشغيل الموزّع مرة أخرى."</string>
     <string name="l10n_e3de5ab0ca4c69db" formatted="false">"إيقاف"</string>
     <string name="l10n_8956389786fd9918" formatted="false">"غير متصل - عرض النسخة المخزّنة مؤقتًا"</string>
     <string name="l10n_8e4f504e020069e6" formatted="false">"البيانات دون اتصال"</string>
@@ -681,8 +681,8 @@
     <string name="l10n_a3b004fb05b4d2cd" formatted="false">"Only the last part of this log is shown."</string>
     <string name="l10n_44a2f9655a134eb7" formatted="false">"لا يمكن تحرير إلا رسائل المستخدم."</string>
     <string name="l10n_93d3335d58377959" formatted="false">"فتح %@"</string>
-    <string name="l10n_ec9649e469304224" formatted="false">"فتح إعدادات Hermex"</string>
-    <string name="l10n_37e8a532c4609b51" formatted="false">"يفتح Hermex على محادثة جديدة فارغة."</string>
+    <string name="l10n_fb4e3fa129425b7b" formatted="false">"فتح إعدادات OLYMPUS"</string>
+    <string name="l10n_e23e18a7732f9daf" formatted="false">"يفتح OLYMPUS على محادثة جديدة فارغة."</string>
     <string name="l10n_a564332f478fdd0c" formatted="false">"فتح المرفق %@"</string>
     <string name="l10n_cae8d51df32debc8" formatted="false">"فتح صورة الوسائط %@"</string>
     <string name="l10n_da234e594dde8f23" formatted="false">"يفتح الإعدادات. اضغط مطولًا لتبديل الخوادم."</string>
@@ -859,9 +859,9 @@
     <string name="l10n_0a629b6db6c76c8a" formatted="false">"تخطيط المحادثة من اليمين إلى اليسار"</string>
     <string name="l10n_e96857c58f716104" formatted="false">"الجذر"</string>
     <string name="l10n_a299989ee9a1c92e" formatted="false">"تشغيل الموزّع"</string>
-    <string name="l10n_8ab343d1eabae3ef" formatted="false">"نفّذ إجراءات Hermex مثل محادثة جديدة من Siri أو Spotlight أو شاشة القفل أو زر الإجراء في iPhone. لاستخدام زر الإجراء، افتح إعدادات iOS، واختر زر الإجراء، ثم اختر اختصار، ثم حدد إجراء Hermex."</string>
     <string name="l10n_79adb123c5c0db44" formatted="false">"Run ID"</string>
     <string name="l10n_4ee85a626ff6183b" formatted="false">"تشغيل الآن"</string>
+    <string name="l10n_486ceacb8d0ab18f" formatted="false">"نفّذ إجراءات OLYMPUS مثل محادثة جديدة من Siri أو Spotlight أو شاشة القفل أو زر الإجراء في iPhone. لاستخدام زر الإجراء، افتح إعدادات iOS، واختر زر الإجراء، ثم اختر اختصار، ثم حدد إجراء OLYMPUS."</string>
     <string name="l10n_0e076478ac56474c" formatted="false">"تشغيل مهمة متوازية"</string>
     <string name="l10n_73989d9c59264da0" formatted="false">"قيد التشغيل"</string>
     <string name="l10n_a1b88f565760f0c1" formatted="false">"جارٍ تشغيل الموزّع…"</string>
@@ -1074,7 +1074,7 @@
     <string name="l10n_2a1b7a25a5096500" formatted="false">"الخادم أو نفق Cloudflare غير متاح. تأكد من أن جهاز Mac نشط، وأن hermes-webui قيد التشغيل، وأن النفق متصل."</string>
     <string name="l10n_f8d83dbb55003db9" formatted="false">"رفض الخادم الوصول. تحقق من كلمة مرور الخادم والأذونات."</string>
     <string name="l10n_a9c580f6eaa44ef8" formatted="false">"رفض الخادم هذا التحديث أو لم يطبقه."</string>
-    <string name="l10n_1f649f3b878ba1a5" formatted="false">"رفض الخادم طلب الموزّع هذا. لم يُعِد Hermex المحاولة."</string>
+    <string name="l10n_9c27148a21230c9a" formatted="false">"رفض الخادم طلب الموزّع هذا. لم يُعِد OLYMPUS المحاولة."</string>
     <string name="l10n_3b7efcceeff317b3" formatted="false">"رفض الخادم الطلب."</string>
     <string name="l10n_80e2ebb549050457" formatted="false">"رفض الخادم الطلب: %@"</string>
     <string name="l10n_d2a9f8cb89bf69b7" formatted="false">"تعذّرت قراءة استجابة الخادم."</string>
@@ -1114,7 +1114,7 @@
     <string name="l10n_db5b076292830a46" formatted="false">"يؤدي هذا إلى إزالة الجلسة من خادم Hermes. استخدم هذا فقط مع جلسة لم تعد بحاجة إليها."</string>
     <string name="l10n_dbb832a2ec8300f6" formatted="false">"هذا الخادم مُهيَّأ بالفعل."</string>
     <string name="l10n_2f5dcf380afed4c4" formatted="false">"يتطلب هذا الخادم كلمة مرور."</string>
-    <string name="l10n_79a3dfa79821241e" formatted="false">"يسجّل هذا الخادم الدخول باستخدام مفاتيح المرور، وهو ما لا يدعمه Hermex بعد."</string>
+    <string name="l10n_4704eaec15873ebc" formatted="false">"يسجّل هذا الخادم الدخول باستخدام مفاتيح المرور، وهو ما لا يدعمه OLYMPUS بعد."</string>
     <string name="l10n_14585ea3d2951996" formatted="false">"ستُحذف الجلسات والرسائل المخزَّنة مؤقتًا لهذا الخادم. لن تتأثر الخوادم الأخرى وبيانات الخادم عبر الإنترنت."</string>
     <string name="l10n_2fc701428f624abe" formatted="false">"تم مسح ذاكرة التخزين المؤقت دون اتصال لهذا الخادم."</string>
     <string name="l10n_2417ab228dc86906" formatted="false">"لا تزال هذه الجلسة تردّ، لذا لا يمكن نقلها بعد. حاول مرة أخرى عند انتهائها."</string>
@@ -1205,7 +1205,7 @@
     <string name="l10n_0c82d065d0dd4cbf" formatted="false">"الأوامر الصوتية غير متاحة في تطبيق الهاتف."</string>
     <string name="l10n_c0b2cee024771a9f" formatted="false">"الإدخال الصوتي"</string>
     <string name="l10n_8901e38205892216" formatted="false">"الإدخال الصوتي وعناصر تحكم أداة إنشاء ملائمة للهاتف"</string>
-    <string name="l10n_c7941f7627ecef11" formatted="false">"لا يمكن بدء الإدخال الصوتي إلا أثناء نشاط Hermex."</string>
+    <string name="l10n_47aa18a3d3b5f5c1" formatted="false">"لا يمكن بدء الإدخال الصوتي إلا أثناء نشاط OLYMPUS."</string>
     <string name="l10n_c001f418d6d262b7" formatted="false">"يجهّز الإدخال الصوتي الميكروفون بالفعل. حاول مرة أخرى بعد لحظة."</string>
     <string name="l10n_1620e033ea9b6fdf" formatted="false">"الإدخال الصوتي غير متاح لأن تنسيق إدخال الميكروفون غير صالح."</string>
     <string name="l10n_7d747dad5f928858" formatted="false">"انتظر حتى تنتهي الاستجابة النشطة قبل تغيير هذا المستودع."</string>
@@ -1363,10 +1363,10 @@
     <string name="l10n_36fff63ccbcd7bf9" formatted="false">"تجاهل"</string>
     <string name="l10n_663da9347806aa18" formatted="false">"تغييرات الملفات"</string>
     <string name="l10n_96e578211aa29531" formatted="false">"عوامل التصفية"</string>
-    <string name="l10n_1ce5eec83a4626a6" formatted="false">"???? ??? Hermex ??? ?????? ?????? ???????. ????? ????? ????? ??? ????? ??????? ???????? ?????? ????? ?????? ????? ?????? ??????? ??????? ?? ??? ??????."</string>
     <string name="l10n_7f896a7c24b031ad" formatted="false">"استجابة Kanban غير متوافقة"</string>
     <string name="l10n_7a4e49bc1d9b6a0e" formatted="false">"تحميل الصورة البعيدة"</string>
     <string name="l10n_2563f2298c5e7405" formatted="false">"الاسم: القيمة"</string>
+    <string name="l10n_db706465274002b3" formatted="false">"???? ??? OLYMPUS ??? ?????? ?????? ???????. ????? ????? ????? ??? ????? ??????? ???????? ?????? ????? ?????? ????? ?????? ??????? ??????? ?? ??? ??????."</string>
     <string name="l10n_cf9b77061f7b3126" formatted="false">"فتح"</string>
     <string name="l10n_98b8cca66cc8c83c" formatted="false">"فتح الفروقات"</string>
     <string name="l10n_bfa710ae1583142c" formatted="false">"المطالبات المعلقة: %lld"</string>

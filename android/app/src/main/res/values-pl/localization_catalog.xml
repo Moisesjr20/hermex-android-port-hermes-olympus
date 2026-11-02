@@ -150,7 +150,7 @@
     <string name="l10n_6a72085653e4c5be" formatted="false">"Wszystko"</string>
     <string name="l10n_319eb3c6955636b2" formatted="false">"Wszystkie modele..."</string>
     <string name="l10n_4745c5dce5e868dc" formatted="false">"Cały czas"</string>
-    <string name="l10n_9ff1f43b6bf2dc97" formatted="false">"Zezwól na dostęp do Zdjęć, aby zapisywać obrazy z Hermex."</string>
+    <string name="l10n_6da9ff48e04a9851" formatted="false">"Zezwól na dostęp do Zdjęć, aby zapisywać obrazy z OLYMPUS."</string>
     <string name="l10n_6be2b6a83af87c2f" formatted="false">"Masz już serwer?"</string>
     <string name="l10n_bee6e08682695b15" formatted="false">"Zawsze używaj ciemnej ikony"</string>
     <string name="l10n_af674a970f4ac5b6" formatted="false">"Zawsze używaj ikony disco"</string>
@@ -203,7 +203,7 @@
     <string name="l10n_76163bd10c654bd7" formatted="false">"Przeglądaj tablicę: %@"</string>
     <string name="l10n_1e810b2f9f05b51a" formatted="false">"Przeglądaj obszary robocze i śledź pracę agenta."</string>
     <string name="l10n_95ae28be3160a877" formatted="false">"Przeglądana"</string>
-    <string name="l10n_6a57d83c47ce5b34" formatted="false">"Przeglądanie tablicy pozostaje lokalne w Hermex. Ustawienie jej jako aktywnej zmienia współdzielony stan serwera."</string>
+    <string name="l10n_e4e2f3b7e00bf0c5" formatted="false">"Przeglądanie tablicy pozostaje lokalne w OLYMPUS. Ustawienie jej jako aktywnej zmienia współdzielony stan serwera."</string>
     <string name="l10n_bbd80cf7e2ded5ef" formatted="false">"Buduj"</string>
     <string name="l10n_7e18229655968fa8" formatted="false">"Działania zbiorcze"</string>
     <string name="l10n_e179e26271f3e00f" formatted="false">"Sesje CLI"</string>
@@ -500,10 +500,6 @@
     <string name="l10n_e95d8a1c78a2e435" formatted="false">"Hermes pracuje nad odpowiedzią"</string>
     <string name="l10n_4f56108f827cebaf" formatted="false">"Odpowiedź Hermes zakończona"</string>
     <string name="l10n_d1cadaea84c1198b" formatted="false">"Sesja Hermes"</string>
-    <string name="l10n_77cde96ca2d45d01" formatted="false">"Hermex"</string>
-    <string name="l10n_9a17d2db6a8055f7" formatted="false">"Hermex nie może przywrócić zarchiwizowanej tablicy w aplikacji."</string>
-    <string name="l10n_c33659f639454811" formatted="false">"Hermex przygotowuje odpowiedź"</string>
-    <string name="l10n_01a030be51125242" formatted="false">"Hermex odświeżył tablicę, ale nie może potwierdzić, czy uruchomiono procesy robocze. Sprawdź bieżącą tablicę przed ponownym uruchomieniem dyspozytora."</string>
     <string name="l10n_bb6a69c46c4b1979" formatted="false">"Ukryj ścieżki załączników"</string>
     <string name="l10n_2981d5547d979457" formatted="false">"Ukrywa dołączoną linię ścieżki pliku w wysłanych wiadomościach. Załączniki nadal wyświetlają się jako podglądy, a serwer nadal otrzymuje ścieżki."</string>
     <string name="l10n_b1a5954a483f8f8b" formatted="false">"Wysoki"</string>
@@ -524,7 +520,7 @@
     <string name="l10n_94dc8e4a59fafe99" formatted="false">"Interakcja"</string>
     <string name="l10n_f3068db36e4be906" formatted="false">"Przerwano bieżącą odpowiedź i dodano wiadomość do kolejki."</string>
     <string name="l10n_3895546730917a69" formatted="false">"Kanban"</string>
-    <string name="l10n_8fa296603e98b9fe" formatted="false">"Utrzymuj połączenie Tailscale podczas korzystania z Hermex."</string>
+    <string name="l10n_33b5284e433a2569" formatted="false">"Utrzymuj połączenie Tailscale podczas korzystania z OLYMPUS."</string>
     <string name="l10n_61737de78417a6fe" formatted="false">"Klucz skonfigurowany"</string>
     <string name="l10n_d1c69a859a9638b2" formatted="false">"Ostatni"</string>
     <string name="l10n_17672aec29094ac4" formatted="false">"Ostatnie %lld dni"</string>
@@ -595,7 +591,7 @@
     <string name="l10n_89c8a2851d1755cf" formatted="false">"Pamięć"</string>
     <string name="l10n_4779d4bcd6fb9eeb" formatted="false">"Akcja na wiadomości nie powiodła się"</string>
     <string name="l10n_8bd1e1ee0b36f619" formatted="false">"Liczba wiadomości"</string>
-    <string name="l10n_d2dbcb77dcf32674" formatted="false">"Wyślij wiadomość do Hermex"</string>
+    <string name="l10n_b2bca3e48666175d" formatted="false">"Wyślij wiadomość do OLYMPUS"</string>
     <string name="l10n_f1702b4686278bec" formatted="false">"Wiadomości"</string>
     <string name="l10n_251edc0eb5a82064" formatted="false">"Metadane"</string>
     <string name="l10n_e8cd6e3a402a74e8" formatted="false">"Dostęp do mikrofonu jest wyłączony. Włącz go w Ustawieniach, aby korzystać z wprowadzania głosowego."</string>
@@ -670,6 +666,10 @@
     <string name="l10n_93039e609d94a24f" formatted="false">"Nieustawione"</string>
     <string name="l10n_4c47884f136b4652" formatted="false">"Powiadomienia niedostępne."</string>
     <string name="l10n_9ce3bd4224c8c178" formatted="false">"OK"</string>
+    <string name="l10n_eff2852157e6af11" formatted="false">"OLYMPUS"</string>
+    <string name="l10n_9bf3972fc629e063" formatted="false">"OLYMPUS nie może przywrócić zarchiwizowanej tablicy w aplikacji."</string>
+    <string name="l10n_9b78ccb6a5fff60d" formatted="false">"OLYMPUS przygotowuje odpowiedź"</string>
+    <string name="l10n_7997759f932bb0ae" formatted="false">"OLYMPUS odświeżył tablicę, ale nie może potwierdzić, czy uruchomiono procesy robocze. Sprawdź bieżącą tablicę przed ponownym uruchomieniem dyspozytora."</string>
     <string name="l10n_e3de5ab0ca4c69db" formatted="false">"Wyłączone"</string>
     <string name="l10n_8956389786fd9918" formatted="false">"Offline – wyświetlam wersję z pamięci podręcznej"</string>
     <string name="l10n_8e4f504e020069e6" formatted="false">"Dane offline"</string>
@@ -681,8 +681,8 @@
     <string name="l10n_a3b004fb05b4d2cd" formatted="false">"Only the last part of this log is shown."</string>
     <string name="l10n_44a2f9655a134eb7" formatted="false">"Tylko wiadomości użytkownika mogą być edytowane."</string>
     <string name="l10n_93d3335d58377959" formatted="false">"Otwórz %@"</string>
-    <string name="l10n_ec9649e469304224" formatted="false">"Otwórz Ustawienia Hermex"</string>
-    <string name="l10n_37e8a532c4609b51" formatted="false">"Otwiera Hermex w nowym, pustym czacie."</string>
+    <string name="l10n_fb4e3fa129425b7b" formatted="false">"Otwórz Ustawienia OLYMPUS"</string>
+    <string name="l10n_e23e18a7732f9daf" formatted="false">"Otwiera OLYMPUS w nowym, pustym czacie."</string>
     <string name="l10n_a564332f478fdd0c" formatted="false">"Otwórz załącznik %@"</string>
     <string name="l10n_cae8d51df32debc8" formatted="false">"Otwórz obraz multimedialny %@"</string>
     <string name="l10n_da234e594dde8f23" formatted="false">"Otwiera Ustawienia. Przytrzymaj, aby przełączyć serwery."</string>
@@ -859,9 +859,9 @@
     <string name="l10n_0a629b6db6c76c8a" formatted="false">"Układ czatu od prawej do lewej"</string>
     <string name="l10n_e96857c58f716104" formatted="false">"Główny"</string>
     <string name="l10n_a299989ee9a1c92e" formatted="false">"Uruchom dyspozytor"</string>
-    <string name="l10n_8ab343d1eabae3ef" formatted="false">"Uruchamiaj akcje Hermex, takie jak Nowy czat, za pomocą Siri, Spotlight, ekranu blokady lub przycisku Działania w iPhonie. Aby użyć przycisku Działania, otwórz Ustawienia iOS, wybierz Przycisk Działania, następnie Skrót, a potem akcję Hermex."</string>
     <string name="l10n_79adb123c5c0db44" formatted="false">"Run ID"</string>
     <string name="l10n_4ee85a626ff6183b" formatted="false">"Uruchom teraz"</string>
+    <string name="l10n_486ceacb8d0ab18f" formatted="false">"Uruchamiaj akcje OLYMPUS, takie jak Nowy czat, za pomocą Siri, Spotlight, ekranu blokady lub przycisku Działania w iPhonie. Aby użyć przycisku Działania, otwórz Ustawienia iOS, wybierz Przycisk Działania, następnie Skrót, a potem akcję OLYMPUS."</string>
     <string name="l10n_0e076478ac56474c" formatted="false">"Uruchom równoległe zadanie"</string>
     <string name="l10n_73989d9c59264da0" formatted="false">"Uruchomione"</string>
     <string name="l10n_a1b88f565760f0c1" formatted="false">"Uruchamianie dyspozytora…"</string>
@@ -1074,7 +1074,7 @@
     <string name="l10n_2a1b7a25a5096500" formatted="false">"Serwer lub tunel Cloudflare jest niedostępny. Sprawdź, czy Mac jest aktywny, hermes-webui działa, a tunel jest połączony."</string>
     <string name="l10n_f8d83dbb55003db9" formatted="false">"Serwer odmówił dostępu. Sprawdź hasło serwera i uprawnienia."</string>
     <string name="l10n_a9c580f6eaa44ef8" formatted="false">"Serwer odrzucił lub nie zastosował tej aktualizacji."</string>
-    <string name="l10n_1f649f3b878ba1a5" formatted="false">"Serwer odrzucił to żądanie dyspozytora. Hermex nie ponowił próby."</string>
+    <string name="l10n_9c27148a21230c9a" formatted="false">"Serwer odrzucił to żądanie dyspozytora. OLYMPUS nie ponowił próby."</string>
     <string name="l10n_3b7efcceeff317b3" formatted="false">"Serwer odrzucił żądanie."</string>
     <string name="l10n_80e2ebb549050457" formatted="false">"Serwer odrzucił żądanie: %@"</string>
     <string name="l10n_d2a9f8cb89bf69b7" formatted="false">"Nie można odczytać odpowiedzi serwera."</string>
@@ -1114,7 +1114,7 @@
     <string name="l10n_db5b076292830a46" formatted="false">"Usuwa sesję z serwera Hermes. Użyj tej opcji tylko dla sesji, która nie jest Ci już potrzebna."</string>
     <string name="l10n_dbb832a2ec8300f6" formatted="false">"Ten serwer jest już skonfigurowany."</string>
     <string name="l10n_2f5dcf380afed4c4" formatted="false">"Ten serwer wymaga hasła."</string>
-    <string name="l10n_79a3dfa79821241e" formatted="false">"Ten serwer loguje się za pomocą kluczy dostępu, których Hermex jeszcze nie obsługuje."</string>
+    <string name="l10n_4704eaec15873ebc" formatted="false">"Ten serwer loguje się za pomocą kluczy dostępu, których OLYMPUS jeszcze nie obsługuje."</string>
     <string name="l10n_14585ea3d2951996" formatted="false">"Zapisane w pamięci podręcznej sesje i wiadomości tego serwera zostaną usunięte. Inne serwery i dane online nie są objęte zmianami."</string>
     <string name="l10n_2fc701428f624abe" formatted="false">"Pamięć podręczna offline tego serwera została wyczyszczona."</string>
     <string name="l10n_2417ab228dc86906" formatted="false">"Ta sesja wciąż odpowiada, więc nie można jej jeszcze przenieść. Spróbuj ponownie, gdy się zakończy."</string>
@@ -1205,7 +1205,7 @@
     <string name="l10n_0c82d065d0dd4cbf" formatted="false">"Polecenia głosowe są niedostępne w aplikacji mobilnej."</string>
     <string name="l10n_c0b2cee024771a9f" formatted="false">"Wejście głosowe"</string>
     <string name="l10n_8901e38205892216" formatted="false">"Wejście głosowe i sterowanie kompozytorem przyjazne urządzeniom mobilnym"</string>
-    <string name="l10n_c7941f7627ecef11" formatted="false">"Wejście głosowe może się uruchomić tylko gdy Hermex jest aktywny."</string>
+    <string name="l10n_47aa18a3d3b5f5c1" formatted="false">"Wejście głosowe może się uruchomić tylko gdy OLYMPUS jest aktywny."</string>
     <string name="l10n_c001f418d6d262b7" formatted="false">"Wejście głosowe już przygotowuje mikrofon. Spróbuj ponownie za chwilę."</string>
     <string name="l10n_1620e033ea9b6fdf" formatted="false">"Wejście głosowe jest niedostępne, ponieważ format wejścia mikrofonu jest nieprawidłowy."</string>
     <string name="l10n_7d747dad5f928858" formatted="false">"Przed zmianą tego repozytorium poczekaj na zakończenie aktywnej odpowiedzi."</string>
@@ -1363,10 +1363,10 @@
     <string name="l10n_36fff63ccbcd7bf9" formatted="false">"Odrzuć"</string>
     <string name="l10n_663da9347806aa18" formatted="false">"Zmiany plików"</string>
     <string name="l10n_96e578211aa29531" formatted="false">"Filtry"</string>
-    <string name="l10n_1ce5eec83a4626a6" formatted="false">"Hermex nie m?g? otworzy? zaszyfrowanych danych konta. Resetowanie usunie z tego urz?dzenia zapisane serwery, pliki cookie logowania i niestandardowe nag??wki."</string>
     <string name="l10n_7f896a7c24b031ad" formatted="false">"Niezgodna odpowiedź Kanban"</string>
     <string name="l10n_7a4e49bc1d9b6a0e" formatted="false">"Wczytaj zdalny obraz"</string>
     <string name="l10n_2563f2298c5e7405" formatted="false">"Nazwa: wartość"</string>
+    <string name="l10n_db706465274002b3" formatted="false">"OLYMPUS nie m?g? otworzy? zaszyfrowanych danych konta. Resetowanie usunie z tego urz?dzenia zapisane serwery, pliki cookie logowania i niestandardowe nag??wki."</string>
     <string name="l10n_cf9b77061f7b3126" formatted="false">"Otwórz"</string>
     <string name="l10n_98b8cca66cc8c83c" formatted="false">"Otwórz różnice"</string>
     <string name="l10n_bfa710ae1583142c" formatted="false">"Oczekujące pytania: %lld"</string>

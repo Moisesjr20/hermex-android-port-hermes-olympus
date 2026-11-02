@@ -44,6 +44,7 @@ import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.Dp
 import androidx.compose.ui.unit.dp
 import com.uzairansar.hermex.R
+import com.uzairansar.hermex.ui.localization.localizedString
 import dev.chrisbanes.haze.HazeState
 import dev.chrisbanes.haze.HazeStyle
 import dev.chrisbanes.haze.HazeTint
@@ -52,7 +53,12 @@ import dev.chrisbanes.haze.hazeSource
 
 object HermexColors {
     val Gold = Color(0xFFE8A030)
-    val HeaderGold = Color(0xFFFFD700)
+    // OLYMPUS brand — navy + laranja/âmbar (Monte Olimpo + raio de Zeus).
+    val OlympusNavy = Color(0xFF0A1628)
+    val OlympusOrange = Color(0xFFF59E0B)
+    val OlympusAmber = Color(0xFFFBBF24)
+    // Mantido para compat; agora aponta pro âmbar OLYMPUS em vez do dourado HERMEX.
+    val HeaderGold = OlympusAmber
     val GoldBright = Color(0xFFFFC24A)
     val AccentBlue = Color(0xFF007AFF)
     val AccentBlueDark = Color(0xFF0A84FF)
@@ -122,44 +128,52 @@ object HermexGlassTokens {
 val HermexCardShape: RoundedCornerShape = RoundedCornerShape(12.dp)
 val HermexGlassShape: RoundedCornerShape = RoundedCornerShape(22.dp)
 val HermexPillShape: RoundedCornerShape = RoundedCornerShape(999.dp)
-private const val HermesLogoAspectRatio = 643f / 185f
+private const val OlympusLogoAspectRatio = 480f / 160f
 val LocalHermexHapticsEnabled = staticCompositionLocalOf { true }
 
+/**
+ * Wordmark OLYMPUS — raio de Zeus + tipografia black.
+ * Substitui o antigo logo HERMEX (4 camadas PNG pixel-art) por composição vetorial
+ * nativa que escala sem perda e respeita o `tint` dinâmico de avatar do perfil.
+ */
 @Composable
 fun HermesHeaderLogo(
     modifier: Modifier = Modifier,
-    tint: Color = HermexColors.HeaderGold,
+    tint: Color = HermexColors.OlympusOrange,
 ) {
-    Box(
+    androidx.compose.foundation.layout.BoxWithConstraints(
         modifier = modifier
-            .aspectRatio(HermesLogoAspectRatio)
-            .semantics { contentDescription = "HERMEX" },
+            .aspectRatio(OlympusLogoAspectRatio)
+            .semantics { contentDescription = "OLYMPUS" },
     ) {
-        Image(
-            painter = painterResource(R.drawable.hermes_fill_mask),
-            contentDescription = null,
+        val h = maxHeight
+        androidx.compose.foundation.layout.Row(
             modifier = Modifier.fillMaxSize(),
-            contentScale = ContentScale.Fit,
-            colorFilter = ColorFilter.tint(tint),
-        )
-        Image(
-            painter = painterResource(R.drawable.hermes_shading_overlay),
-            contentDescription = null,
-            modifier = Modifier.fillMaxSize(),
-            contentScale = ContentScale.Fit,
-        )
-        Image(
-            painter = painterResource(R.drawable.hermes_highlight),
-            contentDescription = null,
-            modifier = Modifier.fillMaxSize(),
-            contentScale = ContentScale.Fit,
-        )
-        Image(
-            painter = painterResource(R.drawable.hermes_outline_shadow),
-            contentDescription = null,
-            modifier = Modifier.fillMaxSize(),
-            contentScale = ContentScale.Fit,
-        )
+            verticalAlignment = androidx.compose.ui.Alignment.CenterVertically,
+            horizontalArrangement = androidx.compose.foundation.layout.Arrangement.spacedBy(h * 0.14f),
+        ) {
+            Image(
+                painter = painterResource(R.drawable.ic_olympus_bolt),
+                contentDescription = null,
+                modifier = Modifier.size(h * 0.95f),
+                colorFilter = ColorFilter.tint(tint),
+            )
+            Text(
+                text = localizedString("OLYMPUS"),
+                color = tint,
+                fontWeight = FontWeight.Black,
+                letterSpacing = androidx.compose.ui.unit.TextUnit(
+                    4f,
+                    androidx.compose.ui.unit.TextUnitType.Sp,
+                ),
+                fontSize = androidx.compose.ui.unit.TextUnit(
+                    (h.value * 0.55f).coerceAtLeast(14f),
+                    androidx.compose.ui.unit.TextUnitType.Sp,
+                ),
+                maxLines = 1,
+                overflow = TextOverflow.Clip,
+            )
+        }
     }
 }
 

@@ -150,7 +150,7 @@
     <string name="l10n_6a72085653e4c5be" formatted="false">"تمام"</string>
     <string name="l10n_319eb3c6955636b2" formatted="false">"تمام ماڈلز..."</string>
     <string name="l10n_4745c5dce5e868dc" formatted="false">"تمام وقت"</string>
-    <string name="l10n_9ff1f43b6bf2dc97" formatted="false">"Hermex سے تصاویر محفوظ کرنے کے لیے Photos تک رسائی کی اجازت دیں۔"</string>
+    <string name="l10n_6da9ff48e04a9851" formatted="false">"OLYMPUS سے تصاویر محفوظ کرنے کے لیے Photos تک رسائی کی اجازت دیں۔"</string>
     <string name="l10n_6be2b6a83af87c2f" formatted="false">"پہلے سے سرور موجود ہے؟"</string>
     <string name="l10n_bee6e08682695b15" formatted="false">"ہمیشہ ڈارک آئیکن استعمال کریں"</string>
     <string name="l10n_af674a970f4ac5b6" formatted="false">"ہمیشہ ڈسکو آئیکن استعمال کریں"</string>
@@ -203,7 +203,7 @@
     <string name="l10n_76163bd10c654bd7" formatted="false">"بورڈ دیکھیں: %@"</string>
     <string name="l10n_1e810b2f9f05b51a" formatted="false">"ورک اسپیسز براؤز کریں اور ایجنٹ کے کام پر نظر رکھیں۔"</string>
     <string name="l10n_95ae28be3160a877" formatted="false">"زیرِ مطالعہ"</string>
-    <string name="l10n_6a57d83c47ce5b34" formatted="false">"بورڈ دیکھنا Hermex تک مقامی رہتا ہے۔ بورڈ فعال کرنے سے مشترکہ سرور کی حالت بدلتی ہے۔"</string>
+    <string name="l10n_e4e2f3b7e00bf0c5" formatted="false">"بورڈ دیکھنا OLYMPUS تک مقامی رہتا ہے۔ بورڈ فعال کرنے سے مشترکہ سرور کی حالت بدلتی ہے۔"</string>
     <string name="l10n_bbd80cf7e2ded5ef" formatted="false">"بِلڈ"</string>
     <string name="l10n_7e18229655968fa8" formatted="false">"اجتماعی کارروائیاں"</string>
     <string name="l10n_e179e26271f3e00f" formatted="false">"CLI سیشنز"</string>
@@ -500,10 +500,6 @@
     <string name="l10n_e95d8a1c78a2e435" formatted="false">"Hermes جواب پر کام کر رہا ہے"</string>
     <string name="l10n_4f56108f827cebaf" formatted="false">"Hermes جواب مکمل"</string>
     <string name="l10n_d1cadaea84c1198b" formatted="false">"Hermes سیشن"</string>
-    <string name="l10n_77cde96ca2d45d01" formatted="false">"Hermex"</string>
-    <string name="l10n_9a17d2db6a8055f7" formatted="false">"Hermex ایپ میں محفوظ شدہ بورڈ بحال نہیں کر سکتا۔"</string>
-    <string name="l10n_c33659f639454811" formatted="false">"Hermex جواب تیار کر رہا ہے"</string>
-    <string name="l10n_01a030be51125242" formatted="false">"Hermex نے بورڈ ریفریش کیا، لیکن یہ تصدیق نہیں کر سکتا کہ ورکرز شروع ہوئے یا نہیں۔ ڈسپیچر دوبارہ چلانے سے پہلے موجودہ بورڈ کا جائزہ لیں۔"</string>
     <string name="l10n_bb6a69c46c4b1979" formatted="false">"منسلکہ پاتھس چھپائیں"</string>
     <string name="l10n_2981d5547d979457" formatted="false">"آپ کے بھیجے گئے پیغامات میں شامل کی گئی فائل پاتھ کی سطر چھپاتا ہے۔ منسلکات اب بھی پیش منظر کے طور پر ظاہر ہوتے ہیں، اور سرور کو اب بھی پاتھس موصول ہوتے ہیں۔"</string>
     <string name="l10n_b1a5954a483f8f8b" formatted="false">"زیادہ"</string>
@@ -524,7 +520,7 @@
     <string name="l10n_94dc8e4a59fafe99" formatted="false">"تعامل"</string>
     <string name="l10n_f3068db36e4be906" formatted="false">"موجودہ جواب میں خلل ڈالا اور آپ کا پیغام اگلی بار بھیجنے کے لیے قطار میں لگا دیا۔"</string>
     <string name="l10n_3895546730917a69" formatted="false">"کانبان"</string>
-    <string name="l10n_8fa296603e98b9fe" formatted="false">"Hermex استعمال کرتے وقت Tailscale منسلک رکھیں۔"</string>
+    <string name="l10n_33b5284e433a2569" formatted="false">"OLYMPUS استعمال کرتے وقت Tailscale منسلک رکھیں۔"</string>
     <string name="l10n_61737de78417a6fe" formatted="false">"کلید ترتیب دی گئی"</string>
     <string name="l10n_d1c69a859a9638b2" formatted="false">"آخری"</string>
     <string name="l10n_17672aec29094ac4" formatted="false">"آخری %lld دن"</string>
@@ -595,7 +591,7 @@
     <string name="l10n_89c8a2851d1755cf" formatted="false">"میموری"</string>
     <string name="l10n_4779d4bcd6fb9eeb" formatted="false">"پیغام کی کارروائی ناکام"</string>
     <string name="l10n_8bd1e1ee0b36f619" formatted="false">"پیغامات کی تعداد"</string>
-    <string name="l10n_d2dbcb77dcf32674" formatted="false">"Hermex کو پیغام بھیجیں"</string>
+    <string name="l10n_b2bca3e48666175d" formatted="false">"OLYMPUS کو پیغام بھیجیں"</string>
     <string name="l10n_f1702b4686278bec" formatted="false">"پیغامات"</string>
     <string name="l10n_251edc0eb5a82064" formatted="false">"میٹا ڈیٹا"</string>
     <string name="l10n_e8cd6e3a402a74e8" formatted="false">"مائیکروفون تک رسائی غیر فعال ہے۔ صوتی اِن پٹ استعمال کرنے کے لیے اِسے ترتیبات میں فعال کریں۔"</string>
@@ -670,6 +666,10 @@
     <string name="l10n_93039e609d94a24f" formatted="false">"متعین نہیں"</string>
     <string name="l10n_4c47884f136b4652" formatted="false">"اطلاعات دستیاب نہیں۔"</string>
     <string name="l10n_9ce3bd4224c8c178" formatted="false">"ٹھیک ہے"</string>
+    <string name="l10n_eff2852157e6af11" formatted="false">"OLYMPUS"</string>
+    <string name="l10n_9bf3972fc629e063" formatted="false">"OLYMPUS ایپ میں محفوظ شدہ بورڈ بحال نہیں کر سکتا۔"</string>
+    <string name="l10n_9b78ccb6a5fff60d" formatted="false">"OLYMPUS جواب تیار کر رہا ہے"</string>
+    <string name="l10n_7997759f932bb0ae" formatted="false">"OLYMPUS نے بورڈ ریفریش کیا، لیکن یہ تصدیق نہیں کر سکتا کہ ورکرز شروع ہوئے یا نہیں۔ ڈسپیچر دوبارہ چلانے سے پہلے موجودہ بورڈ کا جائزہ لیں۔"</string>
     <string name="l10n_e3de5ab0ca4c69db" formatted="false">"آف"</string>
     <string name="l10n_8956389786fd9918" formatted="false">"آف لائن - کیشے شدہ ورژن دیکھا جا رہا ہے"</string>
     <string name="l10n_8e4f504e020069e6" formatted="false">"آف لائن ڈیٹا"</string>
@@ -681,8 +681,8 @@
     <string name="l10n_a3b004fb05b4d2cd" formatted="false">"Only the last part of this log is shown."</string>
     <string name="l10n_44a2f9655a134eb7" formatted="false">"صرف صارف کے پیغامات میں ترمیم کی جا سکتی ہے۔"</string>
     <string name="l10n_93d3335d58377959" formatted="false">"%@ کھولیں"</string>
-    <string name="l10n_ec9649e469304224" formatted="false">"Hermex ترتیبات کھولیں"</string>
-    <string name="l10n_37e8a532c4609b51" formatted="false">"Hermex کو ایک نئی، خالی چیٹ پر کھولیں۔"</string>
+    <string name="l10n_fb4e3fa129425b7b" formatted="false">"OLYMPUS ترتیبات کھولیں"</string>
+    <string name="l10n_e23e18a7732f9daf" formatted="false">"OLYMPUS کو ایک نئی، خالی چیٹ پر کھولیں۔"</string>
     <string name="l10n_a564332f478fdd0c" formatted="false">"منسلکہ %@ کھولیں"</string>
     <string name="l10n_cae8d51df32debc8" formatted="false">"میڈیا تصویر %@ کھولیں"</string>
     <string name="l10n_da234e594dde8f23" formatted="false">"ترتیبات کھولتا ہے۔ سرورز تبدیل کرنے کے لیے دیر تک دبائیں۔"</string>
@@ -859,9 +859,9 @@
     <string name="l10n_0a629b6db6c76c8a" formatted="false">"دائیں سے بائیں چیٹ لے آؤٹ"</string>
     <string name="l10n_e96857c58f716104" formatted="false">"روٹ"</string>
     <string name="l10n_a299989ee9a1c92e" formatted="false">"ڈسپیچر چلائیں"</string>
-    <string name="l10n_8ab343d1eabae3ef" formatted="false">"Siri، Spotlight، لاک اسکرین، یا iPhone کے ایکشن بٹن سے نئی چیٹ جیسی Hermex کارروائیاں چلائیں۔ ایکشن بٹن استعمال کرنے کے لیے، iOS ترتیبات کھولیں، ایکشن بٹن منتخب کریں، شارٹ کٹ منتخب کریں، پھر کوئی Hermex کارروائی منتخب کریں۔"</string>
     <string name="l10n_79adb123c5c0db44" formatted="false">"Run ID"</string>
     <string name="l10n_4ee85a626ff6183b" formatted="false">"ابھی چلائیں"</string>
+    <string name="l10n_486ceacb8d0ab18f" formatted="false">"Siri، Spotlight، لاک اسکرین، یا iPhone کے ایکشن بٹن سے نئی چیٹ جیسی OLYMPUS کارروائیاں چلائیں۔ ایکشن بٹن استعمال کرنے کے لیے، iOS ترتیبات کھولیں، ایکشن بٹن منتخب کریں، شارٹ کٹ منتخب کریں، پھر کوئی OLYMPUS کارروائی منتخب کریں۔"</string>
     <string name="l10n_0e076478ac56474c" formatted="false">"متوازی ٹاسک چلائیں"</string>
     <string name="l10n_73989d9c59264da0" formatted="false">"چل رہا ہے"</string>
     <string name="l10n_a1b88f565760f0c1" formatted="false">"ڈسپیچر چل رہا ہے…"</string>
@@ -1074,7 +1074,7 @@
     <string name="l10n_2a1b7a25a5096500" formatted="false">"سرور یا Cloudflare ٹنل دستیاب نہیں ہے۔ یقینی بنائیں کہ Mac بیدار ہے، hermes-webui چل رہا ہے، اور ٹنل منسلک ہے۔"</string>
     <string name="l10n_f8d83dbb55003db9" formatted="false">"سرور نے رسائی سے انکار کر دیا۔ سرور پاس ورڈ اور اجازتوں کی جانچ کریں۔"</string>
     <string name="l10n_a9c580f6eaa44ef8" formatted="false">"سرور نے یہ اپ ڈیٹ مسترد کر دی یا لاگو نہیں کی۔"</string>
-    <string name="l10n_1f649f3b878ba1a5" formatted="false">"سرور نے اس ڈسپیچر درخواست کو مسترد کر دیا۔ Hermex نے دوبارہ کوشش نہیں کی۔"</string>
+    <string name="l10n_9c27148a21230c9a" formatted="false">"سرور نے اس ڈسپیچر درخواست کو مسترد کر دیا۔ OLYMPUS نے دوبارہ کوشش نہیں کی۔"</string>
     <string name="l10n_3b7efcceeff317b3" formatted="false">"سرور نے درخواست مسترد کر دی۔"</string>
     <string name="l10n_80e2ebb549050457" formatted="false">"سرور نے درخواست مسترد کر دی: %@"</string>
     <string name="l10n_d2a9f8cb89bf69b7" formatted="false">"سرور کا جواب پڑھا نہیں جا سکا۔"</string>
@@ -1114,7 +1114,7 @@
     <string name="l10n_db5b076292830a46" formatted="false">"یہ سیشن کو Hermes سرور سے ہٹا دیتا ہے۔ اسے صرف ایسے سیشن پر استعمال کریں جس کی آپ کو مزید ضرورت نہیں۔"</string>
     <string name="l10n_dbb832a2ec8300f6" formatted="false">"یہ سرور پہلے ہی ترتیب شدہ ہے۔"</string>
     <string name="l10n_2f5dcf380afed4c4" formatted="false">"اس سرور کے لیے پاس ورڈ درکار ہے۔"</string>
-    <string name="l10n_79a3dfa79821241e" formatted="false">"یہ سرور پاس کیز کے ساتھ سائن اِن کرتا ہے، جنہیں Hermex ابھی تک سپورٹ نہیں کرتا۔"</string>
+    <string name="l10n_4704eaec15873ebc" formatted="false">"یہ سرور پاس کیز کے ساتھ سائن اِن کرتا ہے، جنہیں OLYMPUS ابھی تک سپورٹ نہیں کرتا۔"</string>
     <string name="l10n_14585ea3d2951996" formatted="false">"اس سرور کے کیشے شدہ سیشنز اور پیغامات حذف کر دیے جائیں گے۔ دیگر سرورز اور آن لائن سرور کا ڈیٹا متاثر نہیں ہوتا۔"</string>
     <string name="l10n_2fc701428f624abe" formatted="false">"اس سرور کا آف لائن کیشے صاف کر دیا گیا۔"</string>
     <string name="l10n_2417ab228dc86906" formatted="false">"یہ سیشن ابھی جواب دے رہا ہے، اس لیے فی الحال اسے منتقل نہیں کیا جا سکتا۔ مکمل ہونے پر دوبارہ کوشش کریں۔"</string>
@@ -1205,7 +1205,7 @@
     <string name="l10n_0c82d065d0dd4cbf" formatted="false">"صوتی کمانڈز موبائل ایپ میں دستیاب نہیں ہیں۔"</string>
     <string name="l10n_c0b2cee024771a9f" formatted="false">"صوتی ان پٹ"</string>
     <string name="l10n_8901e38205892216" formatted="false">"صوتی ان پٹ اور موبائل دوست کمپوزر کنٹرولز"</string>
-    <string name="l10n_c7941f7627ecef11" formatted="false">"صوتی ان پٹ صرف اسی وقت شروع ہو سکتا ہے جب Hermex فعال ہو۔"</string>
+    <string name="l10n_47aa18a3d3b5f5c1" formatted="false">"صوتی ان پٹ صرف اسی وقت شروع ہو سکتا ہے جب OLYMPUS فعال ہو۔"</string>
     <string name="l10n_c001f418d6d262b7" formatted="false">"صوتی ان پٹ پہلے ہی مائیکروفون تیار کر رہا ہے۔ ایک لمحے بعد دوبارہ کوشش کریں۔"</string>
     <string name="l10n_1620e033ea9b6fdf" formatted="false">"صوتی ان پٹ دستیاب نہیں ہے کیونکہ مائیکروفون ان پٹ فارمیٹ غلط ہے۔"</string>
     <string name="l10n_7d747dad5f928858" formatted="false">"اس ذخیرہ کو تبدیل کرنے سے پہلے فعال جواب کے ختم ہونے کا انتظار کریں۔"</string>
@@ -1363,10 +1363,10 @@
     <string name="l10n_36fff63ccbcd7bf9" formatted="false">"مسترد کریں"</string>
     <string name="l10n_663da9347806aa18" formatted="false">"فائل کی تبدیلیاں"</string>
     <string name="l10n_96e578211aa29531" formatted="false">"فلٹرز"</string>
-    <string name="l10n_1ce5eec83a4626a6" formatted="false">"Hermex ????? ?????? ???? ???? ???? ???? ?? ??? ???? ?? ?? ??? ?? ????? ???? ?????? ???? ??? ????? ??? ??? ????? ????? ?? ????? ???"</string>
     <string name="l10n_7f896a7c24b031ad" formatted="false">"غیر موافق Kanban جواب"</string>
     <string name="l10n_7a4e49bc1d9b6a0e" formatted="false">"ریموٹ تصویر لوڈ کریں"</string>
     <string name="l10n_2563f2298c5e7405" formatted="false">"نام: قدر"</string>
+    <string name="l10n_db706465274002b3" formatted="false">"OLYMPUS ????? ?????? ???? ???? ???? ???? ?? ??? ???? ?? ?? ??? ?? ????? ???? ?????? ???? ??? ????? ??? ??? ????? ????? ?? ????? ???"</string>
     <string name="l10n_cf9b77061f7b3126" formatted="false">"کھولیں"</string>
     <string name="l10n_98b8cca66cc8c83c" formatted="false">"فرق کھولیں"</string>
     <string name="l10n_bfa710ae1583142c" formatted="false">"زیر التوا درخواستیں: %lld"</string>
