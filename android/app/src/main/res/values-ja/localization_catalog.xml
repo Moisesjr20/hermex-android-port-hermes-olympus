@@ -150,7 +150,7 @@
     <string name="l10n_6a72085653e4c5be" formatted="false">"すべて"</string>
     <string name="l10n_319eb3c6955636b2" formatted="false">"すべてのモデル…"</string>
     <string name="l10n_4745c5dce5e868dc" formatted="false">"全期間"</string>
-    <string name="l10n_9ff1f43b6bf2dc97" formatted="false">"OLYMPUSから画像を保存するには「写真」へのアクセスを許可してください。"</string>
+    <string name="l10n_6da9ff48e04a9851" formatted="false">"OLYMPUSから画像を保存するには「写真」へのアクセスを許可してください。"</string>
     <string name="l10n_6be2b6a83af87c2f" formatted="false">"すでにサーバをお持ちですか？"</string>
     <string name="l10n_bee6e08682695b15" formatted="false">"常にダークアイコンを使用"</string>
     <string name="l10n_af674a970f4ac5b6" formatted="false">"常にディスコアイコンを使用"</string>
@@ -203,7 +203,7 @@
     <string name="l10n_76163bd10c654bd7" formatted="false">"ボードを表示：%@"</string>
     <string name="l10n_1e810b2f9f05b51a" formatted="false">"ワークスペースを閲覧し、エージェントの作業を把握できます。"</string>
     <string name="l10n_95ae28be3160a877" formatted="false">"閲覧中"</string>
-    <string name="l10n_6a57d83c47ce5b34" formatted="false">"ボードの閲覧はOLYMPUS内だけの操作です。ボードをアクティブにすると共有サーバーの状態が変わります。"</string>
+    <string name="l10n_e4e2f3b7e00bf0c5" formatted="false">"ボードの閲覧はOLYMPUS内だけの操作です。ボードをアクティブにすると共有サーバーの状態が変わります。"</string>
     <string name="l10n_bbd80cf7e2ded5ef" formatted="false">"ビルド"</string>
     <string name="l10n_7e18229655968fa8" formatted="false">"一括操作"</string>
     <string name="l10n_e179e26271f3e00f" formatted="false">"CLIセッション"</string>
@@ -500,10 +500,6 @@
     <string name="l10n_e95d8a1c78a2e435" formatted="false">"Hermesが応答に取り組んでいます"</string>
     <string name="l10n_4f56108f827cebaf" formatted="false">"Hermesの応答が完了しました"</string>
     <string name="l10n_d1cadaea84c1198b" formatted="false">"Hermesセッション"</string>
-    <string name="l10n_77cde96ca2d45d01" formatted="false">"OLYMPUS"</string>
-    <string name="l10n_9a17d2db6a8055f7" formatted="false">"OLYMPUSアプリ内ではアーカイブ済みボードを復元できません。"</string>
-    <string name="l10n_c33659f639454811" formatted="false">"OLYMPUSが応答を準備しています"</string>
-    <string name="l10n_01a030be51125242" formatted="false">"OLYMPUS はボードを更新しましたが、ワーカーが起動したかどうかを確認できません。ディスパッチャーを再実行する前に現在のボードを確認してください。"</string>
     <string name="l10n_bb6a69c46c4b1979" formatted="false">"添付ファイルのパスを非表示"</string>
     <string name="l10n_2981d5547d979457" formatted="false">"送信メッセージに追加されるファイルパスの行を非表示にします。添付ファイルはプレビューとして表示され、サーバには引き続きパスが送信されます。"</string>
     <string name="l10n_b1a5954a483f8f8b" formatted="false">"高"</string>
@@ -524,7 +520,7 @@
     <string name="l10n_94dc8e4a59fafe99" formatted="false">"操作"</string>
     <string name="l10n_f3068db36e4be906" formatted="false">"現在の応答を中断し、メッセージを次に送信するためキューに追加しました。"</string>
     <string name="l10n_3895546730917a69" formatted="false">"カンバン"</string>
-    <string name="l10n_8fa296603e98b9fe" formatted="false">"OLYMPUS の使用中は Tailscale を接続したままにしてください。"</string>
+    <string name="l10n_33b5284e433a2569" formatted="false">"OLYMPUS の使用中は Tailscale を接続したままにしてください。"</string>
     <string name="l10n_61737de78417a6fe" formatted="false">"キー設定済み"</string>
     <string name="l10n_d1c69a859a9638b2" formatted="false">"最後"</string>
     <string name="l10n_17672aec29094ac4" formatted="false">"過去 %lld 日間"</string>
@@ -595,7 +591,7 @@
     <string name="l10n_89c8a2851d1755cf" formatted="false">"メモリ"</string>
     <string name="l10n_4779d4bcd6fb9eeb" formatted="false">"メッセージ操作に失敗しました"</string>
     <string name="l10n_8bd1e1ee0b36f619" formatted="false">"メッセージ数"</string>
-    <string name="l10n_d2dbcb77dcf32674" formatted="false">"OLYMPUS にメッセージ"</string>
+    <string name="l10n_b2bca3e48666175d" formatted="false">"OLYMPUS にメッセージ"</string>
     <string name="l10n_f1702b4686278bec" formatted="false">"メッセージ"</string>
     <string name="l10n_251edc0eb5a82064" formatted="false">"メタデータ"</string>
     <string name="l10n_e8cd6e3a402a74e8" formatted="false">"マイクへのアクセスが無効です。音声入力を使うには設定で有効にしてください。"</string>
@@ -670,6 +666,10 @@
     <string name="l10n_93039e609d94a24f" formatted="false">"未設定"</string>
     <string name="l10n_4c47884f136b4652" formatted="false">"通知を利用できません。"</string>
     <string name="l10n_9ce3bd4224c8c178" formatted="false">"OK"</string>
+    <string name="l10n_eff2852157e6af11" formatted="false">"OLYMPUS"</string>
+    <string name="l10n_9bf3972fc629e063" formatted="false">"OLYMPUSアプリ内ではアーカイブ済みボードを復元できません。"</string>
+    <string name="l10n_9b78ccb6a5fff60d" formatted="false">"OLYMPUSが応答を準備しています"</string>
+    <string name="l10n_7997759f932bb0ae" formatted="false">"OLYMPUS はボードを更新しましたが、ワーカーが起動したかどうかを確認できません。ディスパッチャーを再実行する前に現在のボードを確認してください。"</string>
     <string name="l10n_e3de5ab0ca4c69db" formatted="false">"オフ"</string>
     <string name="l10n_8956389786fd9918" formatted="false">"オフライン - キャッシュ版を表示中"</string>
     <string name="l10n_8e4f504e020069e6" formatted="false">"オフラインデータ"</string>
@@ -681,8 +681,8 @@
     <string name="l10n_a3b004fb05b4d2cd" formatted="false">"Only the last part of this log is shown."</string>
     <string name="l10n_44a2f9655a134eb7" formatted="false">"ユーザーのメッセージのみ編集できます。"</string>
     <string name="l10n_93d3335d58377959" formatted="false">"%@ を開く"</string>
-    <string name="l10n_ec9649e469304224" formatted="false">"OLYMPUSの設定を開く"</string>
-    <string name="l10n_37e8a532c4609b51" formatted="false">"OLYMPUSを新規の空のチャットで開きます。"</string>
+    <string name="l10n_fb4e3fa129425b7b" formatted="false">"OLYMPUSの設定を開く"</string>
+    <string name="l10n_e23e18a7732f9daf" formatted="false">"OLYMPUSを新規の空のチャットで開きます。"</string>
     <string name="l10n_a564332f478fdd0c" formatted="false">"添付ファイル %@ を開く"</string>
     <string name="l10n_cae8d51df32debc8" formatted="false">"メディア画像 %@ を開く"</string>
     <string name="l10n_da234e594dde8f23" formatted="false">"設定を開きます。長押しでサーバを切り替えます。"</string>
@@ -859,9 +859,9 @@
     <string name="l10n_0a629b6db6c76c8a" formatted="false">"右から左へのチャットレイアウト"</string>
     <string name="l10n_e96857c58f716104" formatted="false">"ルート"</string>
     <string name="l10n_a299989ee9a1c92e" formatted="false">"ディスパッチャーを実行"</string>
-    <string name="l10n_8ab343d1eabae3ef" formatted="false">"Siri、Spotlight、ロック画面、またはiPhoneのアクションボタンから、新規チャットなどのOLYMPUSアクションを実行できます。アクションボタンを使うには、iOSの設定を開き、「アクションボタン」を選択して「ショートカット」を選び、OLYMPUSアクションを選択します。"</string>
     <string name="l10n_79adb123c5c0db44" formatted="false">"Run ID"</string>
     <string name="l10n_4ee85a626ff6183b" formatted="false">"今すぐ実行"</string>
+    <string name="l10n_486ceacb8d0ab18f" formatted="false">"Siri、Spotlight、ロック画面、またはiPhoneのアクションボタンから、新規チャットなどのOLYMPUSアクションを実行できます。アクションボタンを使うには、iOSの設定を開き、「アクションボタン」を選択して「ショートカット」を選び、OLYMPUSアクションを選択します。"</string>
     <string name="l10n_0e076478ac56474c" formatted="false">"並列タスクを実行"</string>
     <string name="l10n_73989d9c59264da0" formatted="false">"実行中"</string>
     <string name="l10n_a1b88f565760f0c1" formatted="false">"ディスパッチャーを実行中…"</string>
@@ -1074,7 +1074,7 @@
     <string name="l10n_2a1b7a25a5096500" formatted="false">"サーバまたはCloudflareトンネルを利用できません。Macがスリープしていないこと、hermes-webuiが実行中であること、トンネルが接続されていることを確認してください。"</string>
     <string name="l10n_f8d83dbb55003db9" formatted="false">"サーバがアクセスを拒否しました。サーバのパスワードと権限を確認してください。"</string>
     <string name="l10n_a9c580f6eaa44ef8" formatted="false">"サーバーがこの更新を拒否したか、適用しませんでした。"</string>
-    <string name="l10n_1f649f3b878ba1a5" formatted="false">"サーバーがこのディスパッチャー要求を拒否しました。OLYMPUS は再試行していません。"</string>
+    <string name="l10n_9c27148a21230c9a" formatted="false">"サーバーがこのディスパッチャー要求を拒否しました。OLYMPUS は再試行していません。"</string>
     <string name="l10n_3b7efcceeff317b3" formatted="false">"サーバがリクエストを拒否しました。"</string>
     <string name="l10n_80e2ebb549050457" formatted="false">"サーバがリクエストを拒否しました：%@"</string>
     <string name="l10n_d2a9f8cb89bf69b7" formatted="false">"サーバの応答を読み取れませんでした。"</string>
@@ -1114,7 +1114,7 @@
     <string name="l10n_db5b076292830a46" formatted="false">"Hermesサーバからセッションを削除します。不要になったセッションにのみ使用してください。"</string>
     <string name="l10n_dbb832a2ec8300f6" formatted="false">"このサーバはすでに設定済みです。"</string>
     <string name="l10n_2f5dcf380afed4c4" formatted="false">"このサーバにはパスワードが必要です。"</string>
-    <string name="l10n_79a3dfa79821241e" formatted="false">"このサーバはパスキーでサインインしますが、OLYMPUSはまだ対応していません。"</string>
+    <string name="l10n_4704eaec15873ebc" formatted="false">"このサーバはパスキーでサインインしますが、OLYMPUSはまだ対応していません。"</string>
     <string name="l10n_14585ea3d2951996" formatted="false">"このサーバのキャッシュされたセッションとメッセージが削除されます。他のサーバとオンラインのサーバデータには影響しません。"</string>
     <string name="l10n_2fc701428f624abe" formatted="false">"このサーバのオフラインキャッシュを消去しました。"</string>
     <string name="l10n_2417ab228dc86906" formatted="false">"このセッションはまだ応答中のため、まだ移動できません。完了してからもう一度お試しください。"</string>
@@ -1205,7 +1205,7 @@
     <string name="l10n_0c82d065d0dd4cbf" formatted="false">"音声コマンドはモバイルアプリでは利用できません。"</string>
     <string name="l10n_c0b2cee024771a9f" formatted="false">"音声入力"</string>
     <string name="l10n_8901e38205892216" formatted="false">"音声入力とモバイル向けのコンポーザーコントロール"</string>
-    <string name="l10n_c7941f7627ecef11" formatted="false">"音声入力はOLYMPUSがアクティブな間のみ開始できます。"</string>
+    <string name="l10n_47aa18a3d3b5f5c1" formatted="false">"音声入力はOLYMPUSがアクティブな間のみ開始できます。"</string>
     <string name="l10n_c001f418d6d262b7" formatted="false">"音声入力はすでにマイクを準備中です。しばらくしてから、もう一度お試しください。"</string>
     <string name="l10n_1620e033ea9b6fdf" formatted="false">"マイクの入力フォーマットが無効なため、音声入力を利用できません。"</string>
     <string name="l10n_7d747dad5f928858" formatted="false">"このリポジトリを変更する前に、アクティブな応答が完了するまで待ってください。"</string>
@@ -1363,10 +1363,10 @@
     <string name="l10n_36fff63ccbcd7bf9" formatted="false">"破棄"</string>
     <string name="l10n_663da9347806aa18" formatted="false">"ファイルの変更"</string>
     <string name="l10n_96e578211aa29531" formatted="false">"フィルター"</string>
-    <string name="l10n_1ce5eec83a4626a6" formatted="false">"OLYMPUS ??????????????????????????????????????????????????????? Cookie?????????????????"</string>
     <string name="l10n_7f896a7c24b031ad" formatted="false">"互換性のない Kanban 応答"</string>
     <string name="l10n_7a4e49bc1d9b6a0e" formatted="false">"リモート画像を読み込む"</string>
     <string name="l10n_2563f2298c5e7405" formatted="false">"名前: 値"</string>
+    <string name="l10n_db706465274002b3" formatted="false">"OLYMPUS ??????????????????????????????????????????????????????? Cookie?????????????????"</string>
     <string name="l10n_cf9b77061f7b3126" formatted="false">"開く"</string>
     <string name="l10n_98b8cca66cc8c83c" formatted="false">"差分を開く"</string>
     <string name="l10n_bfa710ae1583142c" formatted="false">"保留中の確認: %lld"</string>

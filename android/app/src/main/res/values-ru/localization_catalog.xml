@@ -150,7 +150,7 @@
     <string name="l10n_6a72085653e4c5be" formatted="false">"Все"</string>
     <string name="l10n_319eb3c6955636b2" formatted="false">"Все модели..."</string>
     <string name="l10n_4745c5dce5e868dc" formatted="false">"За всё время"</string>
-    <string name="l10n_9ff1f43b6bf2dc97" formatted="false">"Разрешите доступ к Фото, чтобы сохранять изображения из OLYMPUS."</string>
+    <string name="l10n_6da9ff48e04a9851" formatted="false">"Разрешите доступ к Фото, чтобы сохранять изображения из OLYMPUS."</string>
     <string name="l10n_6be2b6a83af87c2f" formatted="false">"Уже есть сервер?"</string>
     <string name="l10n_bee6e08682695b15" formatted="false">"Всегда использовать тёмный значок"</string>
     <string name="l10n_af674a970f4ac5b6" formatted="false">"Всегда использовать значок disco"</string>
@@ -203,7 +203,7 @@
     <string name="l10n_76163bd10c654bd7" formatted="false">"Открыть доску: %@"</string>
     <string name="l10n_1e810b2f9f05b51a" formatted="false">"Просматривайте рабочие пространства и следите за работой агента."</string>
     <string name="l10n_95ae28be3160a877" formatted="false">"Открыта"</string>
-    <string name="l10n_6a57d83c47ce5b34" formatted="false">"Просмотр доски остаётся локальным в OLYMPUS. Активация доски меняет общее состояние сервера."</string>
+    <string name="l10n_e4e2f3b7e00bf0c5" formatted="false">"Просмотр доски остаётся локальным в OLYMPUS. Активация доски меняет общее состояние сервера."</string>
     <string name="l10n_bbd80cf7e2ded5ef" formatted="false">"Сборка"</string>
     <string name="l10n_7e18229655968fa8" formatted="false">"Массовые действия"</string>
     <string name="l10n_e179e26271f3e00f" formatted="false">"Сессии CLI"</string>
@@ -500,10 +500,6 @@
     <string name="l10n_e95d8a1c78a2e435" formatted="false">"Hermes работает над ответом"</string>
     <string name="l10n_4f56108f827cebaf" formatted="false">"Ответ Hermes завершён"</string>
     <string name="l10n_d1cadaea84c1198b" formatted="false">"Сессия Hermes"</string>
-    <string name="l10n_77cde96ca2d45d01" formatted="false">"OLYMPUS"</string>
-    <string name="l10n_9a17d2db6a8055f7" formatted="false">"OLYMPUS не может восстановить архивную доску в приложении."</string>
-    <string name="l10n_c33659f639454811" formatted="false">"OLYMPUS готовит ответ"</string>
-    <string name="l10n_01a030be51125242" formatted="false">"OLYMPUS обновил доску, но не может подтвердить запуск воркеров. Проверьте текущую доску перед повторным запуском диспетчера."</string>
     <string name="l10n_bb6a69c46c4b1979" formatted="false">"Скрывать пути к вложениям"</string>
     <string name="l10n_2981d5547d979457" formatted="false">"Скрывает добавляемую строку с путём к файлу в ваших отправленных сообщениях. Вложения по-прежнему отображаются в виде предпросмотров, а сервер по-прежнему получает пути."</string>
     <string name="l10n_b1a5954a483f8f8b" formatted="false">"Высокий"</string>
@@ -524,7 +520,7 @@
     <string name="l10n_94dc8e4a59fafe99" formatted="false">"Взаимодействие"</string>
     <string name="l10n_f3068db36e4be906" formatted="false">"Текущий ответ прерван, ваше сообщение поставлено в очередь для отправки следующим."</string>
     <string name="l10n_3895546730917a69" formatted="false">"Канбан"</string>
-    <string name="l10n_8fa296603e98b9fe" formatted="false">"Держите Tailscale подключённым при использовании OLYMPUS."</string>
+    <string name="l10n_33b5284e433a2569" formatted="false">"Держите Tailscale подключённым при использовании OLYMPUS."</string>
     <string name="l10n_61737de78417a6fe" formatted="false">"Ключ настроен"</string>
     <string name="l10n_d1c69a859a9638b2" formatted="false">"Последний"</string>
     <string name="l10n_17672aec29094ac4" formatted="false">"Последние %lld дней"</string>
@@ -595,7 +591,7 @@
     <string name="l10n_89c8a2851d1755cf" formatted="false">"Память"</string>
     <string name="l10n_4779d4bcd6fb9eeb" formatted="false">"Не удалось выполнить действие с сообщением"</string>
     <string name="l10n_8bd1e1ee0b36f619" formatted="false">"Количество сообщений"</string>
-    <string name="l10n_d2dbcb77dcf32674" formatted="false">"Написать OLYMPUS"</string>
+    <string name="l10n_b2bca3e48666175d" formatted="false">"Написать OLYMPUS"</string>
     <string name="l10n_f1702b4686278bec" formatted="false">"Сообщения"</string>
     <string name="l10n_251edc0eb5a82064" formatted="false">"Метаданные"</string>
     <string name="l10n_e8cd6e3a402a74e8" formatted="false">"Доступ к микрофону отключён. Включите его в Настройках, чтобы использовать голосовой ввод."</string>
@@ -670,6 +666,10 @@
     <string name="l10n_93039e609d94a24f" formatted="false">"Не задано"</string>
     <string name="l10n_4c47884f136b4652" formatted="false">"Уведомления недоступны."</string>
     <string name="l10n_9ce3bd4224c8c178" formatted="false">"ОК"</string>
+    <string name="l10n_eff2852157e6af11" formatted="false">"OLYMPUS"</string>
+    <string name="l10n_9bf3972fc629e063" formatted="false">"OLYMPUS не может восстановить архивную доску в приложении."</string>
+    <string name="l10n_9b78ccb6a5fff60d" formatted="false">"OLYMPUS готовит ответ"</string>
+    <string name="l10n_7997759f932bb0ae" formatted="false">"OLYMPUS обновил доску, но не может подтвердить запуск воркеров. Проверьте текущую доску перед повторным запуском диспетчера."</string>
     <string name="l10n_e3de5ab0ca4c69db" formatted="false">"Выкл."</string>
     <string name="l10n_8956389786fd9918" formatted="false">"Офлайн — просмотр кэшированной версии"</string>
     <string name="l10n_8e4f504e020069e6" formatted="false">"Данные офлайн"</string>
@@ -681,8 +681,8 @@
     <string name="l10n_a3b004fb05b4d2cd" formatted="false">"Only the last part of this log is shown."</string>
     <string name="l10n_44a2f9655a134eb7" formatted="false">"Изменять можно только сообщения пользователя."</string>
     <string name="l10n_93d3335d58377959" formatted="false">"Открыть %@"</string>
-    <string name="l10n_ec9649e469304224" formatted="false">"Открыть Настройки OLYMPUS"</string>
-    <string name="l10n_37e8a532c4609b51" formatted="false">"Открывает OLYMPUS в новом пустом чате."</string>
+    <string name="l10n_fb4e3fa129425b7b" formatted="false">"Открыть Настройки OLYMPUS"</string>
+    <string name="l10n_e23e18a7732f9daf" formatted="false">"Открывает OLYMPUS в новом пустом чате."</string>
     <string name="l10n_a564332f478fdd0c" formatted="false">"Открыть вложение %@"</string>
     <string name="l10n_cae8d51df32debc8" formatted="false">"Открыть медиаизображение %@"</string>
     <string name="l10n_da234e594dde8f23" formatted="false">"Открывает Настройки. Нажмите и удерживайте для переключения серверов."</string>
@@ -859,9 +859,9 @@
     <string name="l10n_0a629b6db6c76c8a" formatted="false">"Макет чата справа налево"</string>
     <string name="l10n_e96857c58f716104" formatted="false">"Корень"</string>
     <string name="l10n_a299989ee9a1c92e" formatted="false">"Запустить диспетчер"</string>
-    <string name="l10n_8ab343d1eabae3ef" formatted="false">"Запускайте действия OLYMPUS, например «Новый чат», с помощью Siri, Spotlight, экрана блокировки или кнопки «Действие» на iPhone. Чтобы использовать кнопку «Действие», откройте Настройки iOS, выберите «Кнопка Действие», затем «Быстрая команда», после чего выберите действие OLYMPUS."</string>
     <string name="l10n_79adb123c5c0db44" formatted="false">"Run ID"</string>
     <string name="l10n_4ee85a626ff6183b" formatted="false">"Запустить сейчас"</string>
+    <string name="l10n_486ceacb8d0ab18f" formatted="false">"Запускайте действия OLYMPUS, например «Новый чат», с помощью Siri, Spotlight, экрана блокировки или кнопки «Действие» на iPhone. Чтобы использовать кнопку «Действие», откройте Настройки iOS, выберите «Кнопка Действие», затем «Быстрая команда», после чего выберите действие OLYMPUS."</string>
     <string name="l10n_0e076478ac56474c" formatted="false">"Запустить параллельную задачу"</string>
     <string name="l10n_73989d9c59264da0" formatted="false">"Выполняется"</string>
     <string name="l10n_a1b88f565760f0c1" formatted="false">"Диспетчер запускается…"</string>
@@ -1074,7 +1074,7 @@
     <string name="l10n_2a1b7a25a5096500" formatted="false">"Сервер или туннель Cloudflare недоступен. Убедитесь, что Mac не спит, hermes-webui запущен, а туннель подключён."</string>
     <string name="l10n_f8d83dbb55003db9" formatted="false">"Сервер отказал в доступе. Проверьте пароль сервера и разрешения."</string>
     <string name="l10n_a9c580f6eaa44ef8" formatted="false">"Сервер отклонил или не применил это обновление."</string>
-    <string name="l10n_1f649f3b878ba1a5" formatted="false">"Сервер отклонил этот запрос диспетчера. OLYMPUS не повторял его."</string>
+    <string name="l10n_9c27148a21230c9a" formatted="false">"Сервер отклонил этот запрос диспетчера. OLYMPUS не повторял его."</string>
     <string name="l10n_3b7efcceeff317b3" formatted="false">"Сервер отклонил запрос."</string>
     <string name="l10n_80e2ebb549050457" formatted="false">"Сервер отклонил запрос: %@"</string>
     <string name="l10n_d2a9f8cb89bf69b7" formatted="false">"Не удалось прочитать ответ сервера."</string>
@@ -1114,7 +1114,7 @@
     <string name="l10n_db5b076292830a46" formatted="false">"Это удаляет сессию с сервера Hermes. Используйте это только для сессии, которая вам больше не нужна."</string>
     <string name="l10n_dbb832a2ec8300f6" formatted="false">"Этот сервер уже настроен."</string>
     <string name="l10n_2f5dcf380afed4c4" formatted="false">"Этот сервер требует пароль."</string>
-    <string name="l10n_79a3dfa79821241e" formatted="false">"Этот сервер использует для входа ключи доступа, которые OLYMPUS пока не поддерживает."</string>
+    <string name="l10n_4704eaec15873ebc" formatted="false">"Этот сервер использует для входа ключи доступа, которые OLYMPUS пока не поддерживает."</string>
     <string name="l10n_14585ea3d2951996" formatted="false">"Кэшированные сессии и сообщения этого сервера будут удалены. Другие серверы и данные на сервере в сети не затрагиваются."</string>
     <string name="l10n_2fc701428f624abe" formatted="false">"Офлайн-кэш этого сервера очищен."</string>
     <string name="l10n_2417ab228dc86906" formatted="false">"Эта сессия ещё отвечает, поэтому её пока нельзя переместить. Повторите попытку, когда она завершится."</string>
@@ -1205,7 +1205,7 @@
     <string name="l10n_0c82d065d0dd4cbf" formatted="false">"Голосовые команды недоступны в мобильном приложении."</string>
     <string name="l10n_c0b2cee024771a9f" formatted="false">"Голосовой ввод"</string>
     <string name="l10n_8901e38205892216" formatted="false">"Голосовой ввод и удобные для мобильных устройств элементы управления редактором"</string>
-    <string name="l10n_c7941f7627ecef11" formatted="false">"Голосовой ввод можно начать, только пока OLYMPUS активен."</string>
+    <string name="l10n_47aa18a3d3b5f5c1" formatted="false">"Голосовой ввод можно начать, только пока OLYMPUS активен."</string>
     <string name="l10n_c001f418d6d262b7" formatted="false">"Голосовой ввод уже готовит микрофон. Повторите попытку через мгновение."</string>
     <string name="l10n_1620e033ea9b6fdf" formatted="false">"Голосовой ввод недоступен, потому что формат входного сигнала микрофона недопустим."</string>
     <string name="l10n_7d747dad5f928858" formatted="false">"Прежде чем менять этот репозиторий, дождитесь завершения активного ответа."</string>
@@ -1363,10 +1363,10 @@
     <string name="l10n_36fff63ccbcd7bf9" formatted="false">"Отбросить"</string>
     <string name="l10n_663da9347806aa18" formatted="false">"Изменения файлов"</string>
     <string name="l10n_96e578211aa29531" formatted="false">"Фильтры"</string>
-    <string name="l10n_1ce5eec83a4626a6" formatted="false">"OLYMPUS ?? ??????? ??????? ????????????? ?????? ??????? ??????. ????? ?????? ? ????? ?????????? ??????????? ???????, ????? cookie ????? ? ???????????????? ?????????."</string>
     <string name="l10n_7f896a7c24b031ad" formatted="false">"Несовместимый ответ Kanban"</string>
     <string name="l10n_7a4e49bc1d9b6a0e" formatted="false">"Загрузить удалённое изображение"</string>
     <string name="l10n_2563f2298c5e7405" formatted="false">"Имя: значение"</string>
+    <string name="l10n_db706465274002b3" formatted="false">"OLYMPUS ?? ??????? ??????? ????????????? ?????? ??????? ??????. ????? ?????? ? ????? ?????????? ??????????? ???????, ????? cookie ????? ? ???????????????? ?????????."</string>
     <string name="l10n_cf9b77061f7b3126" formatted="false">"Открыть"</string>
     <string name="l10n_98b8cca66cc8c83c" formatted="false">"Открыть различия"</string>
     <string name="l10n_bfa710ae1583142c" formatted="false">"Ожидающие запросы: %lld"</string>

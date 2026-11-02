@@ -150,7 +150,7 @@
     <string name="l10n_6a72085653e4c5be" formatted="false">"Tutto"</string>
     <string name="l10n_319eb3c6955636b2" formatted="false">"Tutti i modelli…"</string>
     <string name="l10n_4745c5dce5e868dc" formatted="false">"Sempre"</string>
-    <string name="l10n_9ff1f43b6bf2dc97" formatted="false">"Consenti l'accesso a Foto per salvare immagini da OLYMPUS."</string>
+    <string name="l10n_6da9ff48e04a9851" formatted="false">"Consenti l'accesso a Foto per salvare immagini da OLYMPUS."</string>
     <string name="l10n_6be2b6a83af87c2f" formatted="false">"Hai già un server?"</string>
     <string name="l10n_bee6e08682695b15" formatted="false">"Usa sempre l'icona scura"</string>
     <string name="l10n_af674a970f4ac5b6" formatted="false">"Usa sempre l'icona disco"</string>
@@ -203,7 +203,7 @@
     <string name="l10n_76163bd10c654bd7" formatted="false">"Sfoglia bacheca: %@"</string>
     <string name="l10n_1e810b2f9f05b51a" formatted="false">"Esplora i workspace e tieni traccia del lavoro dell'agente."</string>
     <string name="l10n_95ae28be3160a877" formatted="false">"In consultazione"</string>
-    <string name="l10n_6a57d83c47ce5b34" formatted="false">"Consultare una bacheca resta locale in OLYMPUS. Attivarla cambia lo stato condiviso del server."</string>
+    <string name="l10n_e4e2f3b7e00bf0c5" formatted="false">"Consultare una bacheca resta locale in OLYMPUS. Attivarla cambia lo stato condiviso del server."</string>
     <string name="l10n_bbd80cf7e2ded5ef" formatted="false">"Build"</string>
     <string name="l10n_7e18229655968fa8" formatted="false">"Azioni collettive"</string>
     <string name="l10n_e179e26271f3e00f" formatted="false">"Sessioni CLI"</string>
@@ -500,10 +500,6 @@
     <string name="l10n_e95d8a1c78a2e435" formatted="false">"Hermes sta elaborando la risposta"</string>
     <string name="l10n_4f56108f827cebaf" formatted="false">"Risposta Hermes completata"</string>
     <string name="l10n_d1cadaea84c1198b" formatted="false">"Sessione Hermes"</string>
-    <string name="l10n_77cde96ca2d45d01" formatted="false">"OLYMPUS"</string>
-    <string name="l10n_9a17d2db6a8055f7" formatted="false">"OLYMPUS non può ripristinare nell’app una bacheca archiviata."</string>
-    <string name="l10n_c33659f639454811" formatted="false">"OLYMPUS sta preparando una risposta"</string>
-    <string name="l10n_01a030be51125242" formatted="false">"OLYMPUS ha aggiornato la bacheca, ma non può confermare se siano stati avviati worker. Controlla la bacheca attuale prima di eseguire di nuovo il dispatcher."</string>
     <string name="l10n_bb6a69c46c4b1979" formatted="false">"Nascondi percorsi allegati"</string>
     <string name="l10n_2981d5547d979457" formatted="false">"Nasconde la riga del percorso file nei messaggi inviati. Gli allegati appaiono ancora come anteprime e il server riceve comunque i percorsi."</string>
     <string name="l10n_b1a5954a483f8f8b" formatted="false">"Alto"</string>
@@ -524,7 +520,7 @@
     <string name="l10n_94dc8e4a59fafe99" formatted="false">"Interazione"</string>
     <string name="l10n_f3068db36e4be906" formatted="false">"Risposta corrente interrotta e messaggio accodato per il prossimo invio."</string>
     <string name="l10n_3895546730917a69" formatted="false">"Kanban"</string>
-    <string name="l10n_8fa296603e98b9fe" formatted="false">"Mantieni Tailscale connesso durante l'uso di OLYMPUS."</string>
+    <string name="l10n_33b5284e433a2569" formatted="false">"Mantieni Tailscale connesso durante l'uso di OLYMPUS."</string>
     <string name="l10n_61737de78417a6fe" formatted="false">"Chiave configurata"</string>
     <string name="l10n_d1c69a859a9638b2" formatted="false">"Ultimo"</string>
     <string name="l10n_17672aec29094ac4" formatted="false">"Ultimi %lld giorni"</string>
@@ -595,7 +591,7 @@
     <string name="l10n_89c8a2851d1755cf" formatted="false">"Memoria"</string>
     <string name="l10n_4779d4bcd6fb9eeb" formatted="false">"Azione messaggio non riuscita"</string>
     <string name="l10n_8bd1e1ee0b36f619" formatted="false">"Numero messaggi"</string>
-    <string name="l10n_d2dbcb77dcf32674" formatted="false">"Scrivi a OLYMPUS"</string>
+    <string name="l10n_b2bca3e48666175d" formatted="false">"Scrivi a OLYMPUS"</string>
     <string name="l10n_f1702b4686278bec" formatted="false">"Messaggi"</string>
     <string name="l10n_251edc0eb5a82064" formatted="false">"Metadati"</string>
     <string name="l10n_e8cd6e3a402a74e8" formatted="false">"Accesso al microfono disabilitato. Abilitalo nelle Impostazioni per usare l'input vocale."</string>
@@ -670,6 +666,10 @@
     <string name="l10n_93039e609d94a24f" formatted="false">"Non impostato"</string>
     <string name="l10n_4c47884f136b4652" formatted="false">"Notifiche non disponibili."</string>
     <string name="l10n_9ce3bd4224c8c178" formatted="false">"OK"</string>
+    <string name="l10n_eff2852157e6af11" formatted="false">"OLYMPUS"</string>
+    <string name="l10n_9bf3972fc629e063" formatted="false">"OLYMPUS non può ripristinare nell’app una bacheca archiviata."</string>
+    <string name="l10n_9b78ccb6a5fff60d" formatted="false">"OLYMPUS sta preparando una risposta"</string>
+    <string name="l10n_7997759f932bb0ae" formatted="false">"OLYMPUS ha aggiornato la bacheca, ma non può confermare se siano stati avviati worker. Controlla la bacheca attuale prima di eseguire di nuovo il dispatcher."</string>
     <string name="l10n_e3de5ab0ca4c69db" formatted="false">"Off"</string>
     <string name="l10n_8956389786fd9918" formatted="false">"Offline - versione in cache"</string>
     <string name="l10n_8e4f504e020069e6" formatted="false">"Dati offline"</string>
@@ -681,8 +681,8 @@
     <string name="l10n_a3b004fb05b4d2cd" formatted="false">"Only the last part of this log is shown."</string>
     <string name="l10n_44a2f9655a134eb7" formatted="false">"Solo i messaggi dell'utente possono essere modificati."</string>
     <string name="l10n_93d3335d58377959" formatted="false">"Apri %@"</string>
-    <string name="l10n_ec9649e469304224" formatted="false">"Apri Impostazioni di OLYMPUS"</string>
-    <string name="l10n_37e8a532c4609b51" formatted="false">"Apre OLYMPUS su una nuova chat vuota."</string>
+    <string name="l10n_fb4e3fa129425b7b" formatted="false">"Apri Impostazioni di OLYMPUS"</string>
+    <string name="l10n_e23e18a7732f9daf" formatted="false">"Apre OLYMPUS su una nuova chat vuota."</string>
     <string name="l10n_a564332f478fdd0c" formatted="false">"Apri allegato %@"</string>
     <string name="l10n_cae8d51df32debc8" formatted="false">"Apri immagine media %@"</string>
     <string name="l10n_da234e594dde8f23" formatted="false">"Apre le Impostazioni. Tieni premuto per cambiare server."</string>
@@ -859,9 +859,9 @@
     <string name="l10n_0a629b6db6c76c8a" formatted="false">"Layout della chat da destra a sinistra"</string>
     <string name="l10n_e96857c58f716104" formatted="false">"Root"</string>
     <string name="l10n_a299989ee9a1c92e" formatted="false">"Avvia dispatcher"</string>
-    <string name="l10n_8ab343d1eabae3ef" formatted="false">"Esegui azioni di OLYMPUS come Nuova chat da Siri, Spotlight, la schermata di blocco o il tasto Azione dell'iPhone. Per usare il tasto Azione, apri Impostazioni di iOS, scegli Tasto Azione, seleziona Comando rapido, quindi un'azione di OLYMPUS."</string>
     <string name="l10n_79adb123c5c0db44" formatted="false">"Run ID"</string>
     <string name="l10n_4ee85a626ff6183b" formatted="false">"Esegui ora"</string>
+    <string name="l10n_486ceacb8d0ab18f" formatted="false">"Esegui azioni di OLYMPUS come Nuova chat da Siri, Spotlight, la schermata di blocco o il tasto Azione dell'iPhone. Per usare il tasto Azione, apri Impostazioni di iOS, scegli Tasto Azione, seleziona Comando rapido, quindi un'azione di OLYMPUS."</string>
     <string name="l10n_0e076478ac56474c" formatted="false">"Esegui un'attività parallela"</string>
     <string name="l10n_73989d9c59264da0" formatted="false">"In esecuzione"</string>
     <string name="l10n_a1b88f565760f0c1" formatted="false">"Esecuzione del dispatcher…"</string>
@@ -1074,7 +1074,7 @@
     <string name="l10n_2a1b7a25a5096500" formatted="false">"Il server o il tunnel Cloudflare non è disponibile. Verifica che il Mac sia attivo, che hermes-webui sia in esecuzione e che il tunnel sia connesso."</string>
     <string name="l10n_f8d83dbb55003db9" formatted="false">"Il server ha rifiutato l'accesso. Verifica la password e i permessi del server."</string>
     <string name="l10n_a9c580f6eaa44ef8" formatted="false">"Il server ha rifiutato o non ha applicato questo aggiornamento."</string>
-    <string name="l10n_1f649f3b878ba1a5" formatted="false">"Il server ha rifiutato questa richiesta del dispatcher. OLYMPUS non ha riprovato."</string>
+    <string name="l10n_9c27148a21230c9a" formatted="false">"Il server ha rifiutato questa richiesta del dispatcher. OLYMPUS non ha riprovato."</string>
     <string name="l10n_3b7efcceeff317b3" formatted="false">"Il server ha rifiutato la richiesta."</string>
     <string name="l10n_80e2ebb549050457" formatted="false">"Il server ha rifiutato la richiesta: %@"</string>
     <string name="l10n_d2a9f8cb89bf69b7" formatted="false">"Impossibile leggere la risposta del server."</string>
@@ -1114,7 +1114,7 @@
     <string name="l10n_db5b076292830a46" formatted="false">"Rimuove la sessione dal server Hermes. Usalo solo per sessioni non più necessarie."</string>
     <string name="l10n_dbb832a2ec8300f6" formatted="false">"Questo server è già configurato."</string>
     <string name="l10n_2f5dcf380afed4c4" formatted="false">"Questo server richiede una password."</string>
-    <string name="l10n_79a3dfa79821241e" formatted="false">"Questo server utilizza le passkey per l'accesso, funzione non ancora supportata da OLYMPUS."</string>
+    <string name="l10n_4704eaec15873ebc" formatted="false">"Questo server utilizza le passkey per l'accesso, funzione non ancora supportata da OLYMPUS."</string>
     <string name="l10n_14585ea3d2951996" formatted="false">"Le sessioni e i messaggi in cache di questo server verranno eliminati. Gli altri server e i dati online non sono interessati."</string>
     <string name="l10n_2fc701428f624abe" formatted="false">"La cache offline di questo server è stata svuotata."</string>
     <string name="l10n_2417ab228dc86906" formatted="false">"Questa sessione sta ancora rispondendo, quindi non può ancora essere spostata. Riprova quando ha finito."</string>
@@ -1205,7 +1205,7 @@
     <string name="l10n_0c82d065d0dd4cbf" formatted="false">"I comandi vocali non sono disponibili nell'app mobile."</string>
     <string name="l10n_c0b2cee024771a9f" formatted="false">"Input vocale"</string>
     <string name="l10n_8901e38205892216" formatted="false">"Input vocale e controlli compositore ottimizzati per mobile"</string>
-    <string name="l10n_c7941f7627ecef11" formatted="false">"L'input vocale può avviarsi solo mentre OLYMPUS è attivo."</string>
+    <string name="l10n_47aa18a3d3b5f5c1" formatted="false">"L'input vocale può avviarsi solo mentre OLYMPUS è attivo."</string>
     <string name="l10n_c001f418d6d262b7" formatted="false">"L'input vocale sta già preparando il microfono. Riprova tra un momento."</string>
     <string name="l10n_1620e033ea9b6fdf" formatted="false">"L'input vocale non è disponibile perché il formato di input del microfono non è valido."</string>
     <string name="l10n_7d747dad5f928858" formatted="false">"Attendi il completamento della risposta attiva prima di modificare questo repository."</string>
@@ -1363,10 +1363,10 @@
     <string name="l10n_36fff63ccbcd7bf9" formatted="false">"Scarta"</string>
     <string name="l10n_663da9347806aa18" formatted="false">"Modifiche ai file"</string>
     <string name="l10n_96e578211aa29531" formatted="false">"Filtri"</string>
-    <string name="l10n_1ce5eec83a4626a6" formatted="false">"OLYMPUS non ha potuto aprire i dati crittografati dell?account. Il ripristino rimuover? da questo dispositivo i server salvati, i cookie di accesso e le intestazioni personalizzate."</string>
     <string name="l10n_7f896a7c24b031ad" formatted="false">"Risposta Kanban incompatibile"</string>
     <string name="l10n_7a4e49bc1d9b6a0e" formatted="false">"Carica immagine remota"</string>
     <string name="l10n_2563f2298c5e7405" formatted="false">"Nome: valore"</string>
+    <string name="l10n_db706465274002b3" formatted="false">"OLYMPUS non ha potuto aprire i dati crittografati dell?account. Il ripristino rimuover? da questo dispositivo i server salvati, i cookie di accesso e le intestazioni personalizzate."</string>
     <string name="l10n_cf9b77061f7b3126" formatted="false">"Apri"</string>
     <string name="l10n_98b8cca66cc8c83c" formatted="false">"Apri diff"</string>
     <string name="l10n_bfa710ae1583142c" formatted="false">"Richieste in sospeso: %lld"</string>
