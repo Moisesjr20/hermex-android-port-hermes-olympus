@@ -150,7 +150,7 @@
     <string name="l10n_6a72085653e4c5be" formatted="false">"הכול"</string>
     <string name="l10n_319eb3c6955636b2" formatted="false">"כל המודלים..."</string>
     <string name="l10n_4745c5dce5e868dc" formatted="false">"כל הזמן"</string>
-    <string name="l10n_9ff1f43b6bf2dc97" formatted="false">"אפשר גישה ל\"תמונות\" כדי לשמור תמונות מ-Hermex."</string>
+    <string name="l10n_9ff1f43b6bf2dc97" formatted="false">"אפשר גישה ל\"תמונות\" כדי לשמור תמונות מ-OLYMPUS."</string>
     <string name="l10n_6be2b6a83af87c2f" formatted="false">"כבר יש לך שרת?"</string>
     <string name="l10n_bee6e08682695b15" formatted="false">"השתמש תמיד בסמל הכהה"</string>
     <string name="l10n_af674a970f4ac5b6" formatted="false">"השתמש תמיד בסמל הדיסקו"</string>
@@ -203,7 +203,7 @@
     <string name="l10n_76163bd10c654bd7" formatted="false">"עיון בלוח: %@"</string>
     <string name="l10n_1e810b2f9f05b51a" formatted="false">"עיין בסביבות העבודה והישאר מעודכן בעבודת הסוכן."</string>
     <string name="l10n_95ae28be3160a877" formatted="false">"בגלישה"</string>
-    <string name="l10n_6a57d83c47ce5b34" formatted="false">"גלישה בלוח נשארת מקומית ב-Hermex. הפיכת לוח לפעיל משנה את מצב השרת המשותף."</string>
+    <string name="l10n_6a57d83c47ce5b34" formatted="false">"גלישה בלוח נשארת מקומית ב-OLYMPUS. הפיכת לוח לפעיל משנה את מצב השרת המשותף."</string>
     <string name="l10n_bbd80cf7e2ded5ef" formatted="false">"גרסת בנייה"</string>
     <string name="l10n_7e18229655968fa8" formatted="false">"פעולות מרוכזות"</string>
     <string name="l10n_e179e26271f3e00f" formatted="false">"מפגשי CLI"</string>
@@ -500,10 +500,10 @@
     <string name="l10n_e95d8a1c78a2e435" formatted="false">"Hermes עובד על התגובה"</string>
     <string name="l10n_4f56108f827cebaf" formatted="false">"תגובת Hermes הושלמה"</string>
     <string name="l10n_d1cadaea84c1198b" formatted="false">"מפגש Hermes"</string>
-    <string name="l10n_77cde96ca2d45d01" formatted="false">"Hermex"</string>
-    <string name="l10n_9a17d2db6a8055f7" formatted="false">"Hermex לא יכול לשחזר לוח שהועבר לארכיון מתוך היישום."</string>
-    <string name="l10n_c33659f639454811" formatted="false">"Hermex מכין תגובה"</string>
-    <string name="l10n_01a030be51125242" formatted="false">"Hermex רענן את הלוח, אך אינו יכול לאשר אם תהליכי העבודה הופעלו. יש לבדוק את הלוח הנוכחי לפני הפעלת המפיץ שוב."</string>
+    <string name="l10n_77cde96ca2d45d01" formatted="false">"OLYMPUS"</string>
+    <string name="l10n_9a17d2db6a8055f7" formatted="false">"OLYMPUS לא יכול לשחזר לוח שהועבר לארכיון מתוך היישום."</string>
+    <string name="l10n_c33659f639454811" formatted="false">"OLYMPUS מכין תגובה"</string>
+    <string name="l10n_01a030be51125242" formatted="false">"OLYMPUS רענן את הלוח, אך אינו יכול לאשר אם תהליכי העבודה הופעלו. יש לבדוק את הלוח הנוכחי לפני הפעלת המפיץ שוב."</string>
     <string name="l10n_bb6a69c46c4b1979" formatted="false">"הסתר נתיבי קבצים מצורפים"</string>
     <string name="l10n_2981d5547d979457" formatted="false">"מסתיר את שורת נתיב הקובץ המצורפת בהודעות שאתה שולח. קבצים מצורפים עדיין מופיעים כתצוגות מקדימות, והשרת עדיין מקבל את הנתיבים."</string>
     <string name="l10n_b1a5954a483f8f8b" formatted="false">"גבוה"</string>
@@ -524,7 +524,7 @@
     <string name="l10n_94dc8e4a59fafe99" formatted="false">"אינטראקציה"</string>
     <string name="l10n_f3068db36e4be906" formatted="false">"התשובה הנוכחית הופסקה וההודעה שלך נוספה לתור לשליחה הבאה."</string>
     <string name="l10n_3895546730917a69" formatted="false">"קנבן"</string>
-    <string name="l10n_8fa296603e98b9fe" formatted="false">"השאר את Tailscale מחובר בעת השימוש ב-Hermex."</string>
+    <string name="l10n_8fa296603e98b9fe" formatted="false">"השאר את Tailscale מחובר בעת השימוש ב-OLYMPUS."</string>
     <string name="l10n_61737de78417a6fe" formatted="false">"המפתח מוגדר"</string>
     <string name="l10n_d1c69a859a9638b2" formatted="false">"אחרון"</string>
     <string name="l10n_17672aec29094ac4" formatted="false">"%lld הימים האחרונים"</string>
@@ -595,7 +595,7 @@
     <string name="l10n_89c8a2851d1755cf" formatted="false">"זיכרון"</string>
     <string name="l10n_4779d4bcd6fb9eeb" formatted="false">"פעולת ההודעה נכשלה"</string>
     <string name="l10n_8bd1e1ee0b36f619" formatted="false">"מספר הודעות"</string>
-    <string name="l10n_d2dbcb77dcf32674" formatted="false">"הודעה ל-Hermex"</string>
+    <string name="l10n_d2dbcb77dcf32674" formatted="false">"הודעה ל-OLYMPUS"</string>
     <string name="l10n_f1702b4686278bec" formatted="false">"הודעות"</string>
     <string name="l10n_251edc0eb5a82064" formatted="false">"מטא-נתונים"</string>
     <string name="l10n_e8cd6e3a402a74e8" formatted="false">"הגישה למיקרופון מושבתת. הפעל אותה בהגדרות כדי להשתמש בקלט קולי."</string>
@@ -681,8 +681,8 @@
     <string name="l10n_a3b004fb05b4d2cd" formatted="false">"Only the last part of this log is shown."</string>
     <string name="l10n_44a2f9655a134eb7" formatted="false">"ניתן לערוך רק הודעות של המשתמש."</string>
     <string name="l10n_93d3335d58377959" formatted="false">"פתח את %@"</string>
-    <string name="l10n_ec9649e469304224" formatted="false">"פתיחת הגדרות Hermex"</string>
-    <string name="l10n_37e8a532c4609b51" formatted="false">"פותח את Hermex בצ׳אט חדש וריק."</string>
+    <string name="l10n_ec9649e469304224" formatted="false">"פתיחת הגדרות OLYMPUS"</string>
+    <string name="l10n_37e8a532c4609b51" formatted="false">"פותח את OLYMPUS בצ׳אט חדש וריק."</string>
     <string name="l10n_a564332f478fdd0c" formatted="false">"פתח קובץ מצורף %@"</string>
     <string name="l10n_cae8d51df32debc8" formatted="false">"פתח תמונת מדיה %@"</string>
     <string name="l10n_da234e594dde8f23" formatted="false">"פותח את ההגדרות. לחיצה ארוכה כדי להחליף שרתים."</string>
@@ -859,7 +859,7 @@
     <string name="l10n_0a629b6db6c76c8a" formatted="false">"פריסת צ׳אט מימין לשמאל"</string>
     <string name="l10n_e96857c58f716104" formatted="false">"שורש"</string>
     <string name="l10n_a299989ee9a1c92e" formatted="false">"הפעלת המפיץ"</string>
-    <string name="l10n_8ab343d1eabae3ef" formatted="false">"הפעל פעולות של Hermex כמו צ׳אט חדש מ-Siri, מ-Spotlight, ממסך הנעילה או מכפתור הפעולה של ה-iPhone. כדי להשתמש בכפתור הפעולה, פתח את הגדרות iOS, בחר בכפתור הפעולה, בחר בקיצור דרך ולאחר מכן בחר פעולה של Hermex."</string>
+    <string name="l10n_8ab343d1eabae3ef" formatted="false">"הפעל פעולות של OLYMPUS כמו צ׳אט חדש מ-Siri, מ-Spotlight, ממסך הנעילה או מכפתור הפעולה של ה-iPhone. כדי להשתמש בכפתור הפעולה, פתח את הגדרות iOS, בחר בכפתור הפעולה, בחר בקיצור דרך ולאחר מכן בחר פעולה של OLYMPUS."</string>
     <string name="l10n_79adb123c5c0db44" formatted="false">"Run ID"</string>
     <string name="l10n_4ee85a626ff6183b" formatted="false">"הפעל כעת"</string>
     <string name="l10n_0e076478ac56474c" formatted="false">"הפעל משימה מקבילה"</string>
@@ -1074,7 +1074,7 @@
     <string name="l10n_2a1b7a25a5096500" formatted="false">"השרת או מנהרת Cloudflare אינם זמינים. ודא שה-Mac ער, ש-hermes-webui פועל, ושהמנהרה מחוברת."</string>
     <string name="l10n_f8d83dbb55003db9" formatted="false">"השרת סירב לגישה. בדוק את סיסמת השרת וההרשאות."</string>
     <string name="l10n_a9c580f6eaa44ef8" formatted="false">"השרת סירב לעדכון הזה או לא החיל אותו."</string>
-    <string name="l10n_1f649f3b878ba1a5" formatted="false">"השרת דחה את בקשת המפיץ הזו. Hermex לא ניסה שוב."</string>
+    <string name="l10n_1f649f3b878ba1a5" formatted="false">"השרת דחה את בקשת המפיץ הזו. OLYMPUS לא ניסה שוב."</string>
     <string name="l10n_3b7efcceeff317b3" formatted="false">"השרת דחה את הבקשה."</string>
     <string name="l10n_80e2ebb549050457" formatted="false">"השרת דחה את הבקשה: %@"</string>
     <string name="l10n_d2a9f8cb89bf69b7" formatted="false">"לא ניתן היה לקרוא את תגובת השרת."</string>
@@ -1114,7 +1114,7 @@
     <string name="l10n_db5b076292830a46" formatted="false">"פעולה זו מסירה את המפגש משרת Hermes. השתמש בכך רק במפגש שאינך זקוק לו עוד."</string>
     <string name="l10n_dbb832a2ec8300f6" formatted="false">"שרת זה כבר מוגדר."</string>
     <string name="l10n_2f5dcf380afed4c4" formatted="false">"שרת זה דורש סיסמה."</string>
-    <string name="l10n_79a3dfa79821241e" formatted="false">"שרת זה מתחבר באמצעות מפתחות גישה, ש-Hermex עדיין אינו תומך בהם."</string>
+    <string name="l10n_79a3dfa79821241e" formatted="false">"שרת זה מתחבר באמצעות מפתחות גישה, ש-OLYMPUS עדיין אינו תומך בהם."</string>
     <string name="l10n_14585ea3d2951996" formatted="false">"המפגשים וההודעות השמורים במטמון של שרת זה יימחקו. שרתים אחרים ונתוני שרת מקוונים לא יושפעו."</string>
     <string name="l10n_2fc701428f624abe" formatted="false">"מטמון הלא-מקוון של שרת זה נוקה."</string>
     <string name="l10n_2417ab228dc86906" formatted="false">"המפגש הזה עדיין מגיב, ולכן אי אפשר להעביר אותו כעת. נסה שוב כשיסתיים."</string>
@@ -1205,7 +1205,7 @@
     <string name="l10n_0c82d065d0dd4cbf" formatted="false">"פקודות קוליות אינן זמינות באפליקציה הניידת."</string>
     <string name="l10n_c0b2cee024771a9f" formatted="false">"קלט קולי"</string>
     <string name="l10n_8901e38205892216" formatted="false">"קלט קולי ופקדי מחבר הודעות ידידותיים לנייד"</string>
-    <string name="l10n_c7941f7627ecef11" formatted="false">"קלט קולי יכול להתחיל רק כאשר Hermex פעיל."</string>
+    <string name="l10n_c7941f7627ecef11" formatted="false">"קלט קולי יכול להתחיל רק כאשר OLYMPUS פעיל."</string>
     <string name="l10n_c001f418d6d262b7" formatted="false">"הקלט הקולי כבר מכין את המיקרופון. נסה שוב בעוד רגע."</string>
     <string name="l10n_1620e033ea9b6fdf" formatted="false">"הקלט הקולי אינו זמין מאחר שתבנית קלט המיקרופון אינה תקינה."</string>
     <string name="l10n_7d747dad5f928858" formatted="false">"המתן עד שתסתיים התגובה הפעילה לפני שתשנה מאגר זה."</string>
@@ -1363,7 +1363,7 @@
     <string name="l10n_36fff63ccbcd7bf9" formatted="false">"השלך"</string>
     <string name="l10n_663da9347806aa18" formatted="false">"שינויים בקבצים"</string>
     <string name="l10n_96e578211aa29531" formatted="false">"מסננים"</string>
-    <string name="l10n_1ce5eec83a4626a6" formatted="false">"Hermex ?? ????? ????? ?? ????? ?????? ????????. ?????? ???? ??????? ????? ??????, ????? Cookie ?????? ??????? ??????? ?????."</string>
+    <string name="l10n_1ce5eec83a4626a6" formatted="false">"OLYMPUS ?? ????? ????? ?? ????? ?????? ????????. ?????? ???? ??????? ????? ??????, ????? Cookie ?????? ??????? ??????? ?????."</string>
     <string name="l10n_7f896a7c24b031ad" formatted="false">"תגובת Kanban לא תואמת"</string>
     <string name="l10n_7a4e49bc1d9b6a0e" formatted="false">"טען תמונה מרוחקת"</string>
     <string name="l10n_2563f2298c5e7405" formatted="false">"שם: ערך"</string>

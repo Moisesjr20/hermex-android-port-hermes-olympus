@@ -150,7 +150,7 @@
     <string name="l10n_6a72085653e4c5be" formatted="false">"全部"</string>
     <string name="l10n_319eb3c6955636b2" formatted="false">"所有模型…"</string>
     <string name="l10n_4745c5dce5e868dc" formatted="false">"全部時間"</string>
-    <string name="l10n_9ff1f43b6bf2dc97" formatted="false">"允許存取「照片」以儲存來自 Hermex 的圖片。"</string>
+    <string name="l10n_9ff1f43b6bf2dc97" formatted="false">"允許存取「照片」以儲存來自 OLYMPUS 的圖片。"</string>
     <string name="l10n_6be2b6a83af87c2f" formatted="false">"已有伺服器？"</string>
     <string name="l10n_bee6e08682695b15" formatted="false">"永遠使用深色圖示"</string>
     <string name="l10n_af674a970f4ac5b6" formatted="false">"永遠使用迪斯科圖示"</string>
@@ -203,7 +203,7 @@
     <string name="l10n_76163bd10c654bd7" formatted="false">"瀏覽看板：%@"</string>
     <string name="l10n_1e810b2f9f05b51a" formatted="false">"瀏覽工作區並隨時掌握代理的工作。"</string>
     <string name="l10n_95ae28be3160a877" formatted="false">"正在瀏覽"</string>
-    <string name="l10n_6a57d83c47ce5b34" formatted="false">"瀏覽看板只會影響 Hermex。將看板設為作用中會更改共享伺服器狀態。"</string>
+    <string name="l10n_6a57d83c47ce5b34" formatted="false">"瀏覽看板只會影響 OLYMPUS。將看板設為作用中會更改共享伺服器狀態。"</string>
     <string name="l10n_bbd80cf7e2ded5ef" formatted="false">"版本號"</string>
     <string name="l10n_7e18229655968fa8" formatted="false">"批次操作"</string>
     <string name="l10n_e179e26271f3e00f" formatted="false">"CLI 工作階段"</string>
@@ -500,10 +500,10 @@
     <string name="l10n_e95d8a1c78a2e435" formatted="false">"Hermes 正在處理回覆"</string>
     <string name="l10n_4f56108f827cebaf" formatted="false">"Hermes 回覆完成"</string>
     <string name="l10n_d1cadaea84c1198b" formatted="false">"Hermes 工作階段"</string>
-    <string name="l10n_77cde96ca2d45d01" formatted="false">"Hermex"</string>
-    <string name="l10n_9a17d2db6a8055f7" formatted="false">"Hermex 無法在 App 內還原已封存的看板。"</string>
-    <string name="l10n_c33659f639454811" formatted="false">"Hermex 正在準備回覆"</string>
-    <string name="l10n_01a030be51125242" formatted="false">"Hermex 已重新整理看板，但無法確認工作程序是否已啟動。再次執行調度器前，請檢查看板目前狀態。"</string>
+    <string name="l10n_77cde96ca2d45d01" formatted="false">"OLYMPUS"</string>
+    <string name="l10n_9a17d2db6a8055f7" formatted="false">"OLYMPUS 無法在 App 內還原已封存的看板。"</string>
+    <string name="l10n_c33659f639454811" formatted="false">"OLYMPUS 正在準備回覆"</string>
+    <string name="l10n_01a030be51125242" formatted="false">"OLYMPUS 已重新整理看板，但無法確認工作程序是否已啟動。再次執行調度器前，請檢查看板目前狀態。"</string>
     <string name="l10n_bb6a69c46c4b1979" formatted="false">"隱藏附件路徑"</string>
     <string name="l10n_2981d5547d979457" formatted="false">"在你傳送的訊息中隱藏追加的檔案路徑行。附件仍會以預覽形式顯示，伺服器仍會收到這些路徑。"</string>
     <string name="l10n_b1a5954a483f8f8b" formatted="false">"高"</string>
@@ -524,7 +524,7 @@
     <string name="l10n_94dc8e4a59fafe99" formatted="false">"互動"</string>
     <string name="l10n_f3068db36e4be906" formatted="false">"已中斷目前的回應，並將訊息排入佇列，於下一輪傳送。"</string>
     <string name="l10n_3895546730917a69" formatted="false">"看板"</string>
-    <string name="l10n_8fa296603e98b9fe" formatted="false">"使用 Hermex 時保持 Tailscale 連線。"</string>
+    <string name="l10n_8fa296603e98b9fe" formatted="false">"使用 OLYMPUS 時保持 Tailscale 連線。"</string>
     <string name="l10n_61737de78417a6fe" formatted="false">"已設定金鑰"</string>
     <string name="l10n_d1c69a859a9638b2" formatted="false">"最近"</string>
     <string name="l10n_17672aec29094ac4" formatted="false">"最近 %lld 天"</string>
@@ -595,7 +595,7 @@
     <string name="l10n_89c8a2851d1755cf" formatted="false">"記憶"</string>
     <string name="l10n_4779d4bcd6fb9eeb" formatted="false">"訊息操作失敗"</string>
     <string name="l10n_8bd1e1ee0b36f619" formatted="false">"訊息數量"</string>
-    <string name="l10n_d2dbcb77dcf32674" formatted="false">"向 Hermex 傳送訊息"</string>
+    <string name="l10n_d2dbcb77dcf32674" formatted="false">"向 OLYMPUS 傳送訊息"</string>
     <string name="l10n_f1702b4686278bec" formatted="false">"訊息"</string>
     <string name="l10n_251edc0eb5a82064" formatted="false">"中繼資料"</string>
     <string name="l10n_e8cd6e3a402a74e8" formatted="false">"麥克風存取權限已停用。請在「設定」中啟用，以使用語音輸入。"</string>
@@ -681,8 +681,8 @@
     <string name="l10n_a3b004fb05b4d2cd" formatted="false">"Only the last part of this log is shown."</string>
     <string name="l10n_44a2f9655a134eb7" formatted="false">"僅可編輯用戶訊息。"</string>
     <string name="l10n_93d3335d58377959" formatted="false">"開啟 %@"</string>
-    <string name="l10n_ec9649e469304224" formatted="false">"打開 Hermex 設定"</string>
-    <string name="l10n_37e8a532c4609b51" formatted="false">"在新的空白聊天中打開 Hermex。"</string>
+    <string name="l10n_ec9649e469304224" formatted="false">"打開 OLYMPUS 設定"</string>
+    <string name="l10n_37e8a532c4609b51" formatted="false">"在新的空白聊天中打開 OLYMPUS。"</string>
     <string name="l10n_a564332f478fdd0c" formatted="false">"開啟附件 %@"</string>
     <string name="l10n_cae8d51df32debc8" formatted="false">"開啟媒體圖像 %@"</string>
     <string name="l10n_da234e594dde8f23" formatted="false">"開啟「設定」。長按可切換伺服器。"</string>
@@ -859,7 +859,7 @@
     <string name="l10n_0a629b6db6c76c8a" formatted="false">"由右至左的聊天版面"</string>
     <string name="l10n_e96857c58f716104" formatted="false">"根目錄"</string>
     <string name="l10n_a299989ee9a1c92e" formatted="false">"執行調度器"</string>
-    <string name="l10n_8ab343d1eabae3ef" formatted="false">"透過 Siri、Spotlight、上鎖畫面或 iPhone 的動作按鈕執行 Hermex 動作（例如新增聊天）。若要使用動作按鈕，請打開 iOS 設定，選擇「動作按鈕」，再選擇「捷徑」，然後選擇一項 Hermex 動作。"</string>
+    <string name="l10n_8ab343d1eabae3ef" formatted="false">"透過 Siri、Spotlight、上鎖畫面或 iPhone 的動作按鈕執行 OLYMPUS 動作（例如新增聊天）。若要使用動作按鈕，請打開 iOS 設定，選擇「動作按鈕」，再選擇「捷徑」，然後選擇一項 OLYMPUS 動作。"</string>
     <string name="l10n_79adb123c5c0db44" formatted="false">"Run ID"</string>
     <string name="l10n_4ee85a626ff6183b" formatted="false">"立即執行"</string>
     <string name="l10n_0e076478ac56474c" formatted="false">"執行並行任務"</string>
@@ -1074,7 +1074,7 @@
     <string name="l10n_2a1b7a25a5096500" formatted="false">"伺服器或 Cloudflare 通道無法使用。請檢查 Mac 是否已喚醒、hermes-webui 是否正在執行以及通道是否已連線。"</string>
     <string name="l10n_f8d83dbb55003db9" formatted="false">"伺服器拒絕存取。請檢查伺服器密碼和權限。"</string>
     <string name="l10n_a9c580f6eaa44ef8" formatted="false">"伺服器拒絕或未套用此更新。"</string>
-    <string name="l10n_1f649f3b878ba1a5" formatted="false">"伺服器拒絕了此調度器要求。Hermex 未重試。"</string>
+    <string name="l10n_1f649f3b878ba1a5" formatted="false">"伺服器拒絕了此調度器要求。OLYMPUS 未重試。"</string>
     <string name="l10n_3b7efcceeff317b3" formatted="false">"伺服器拒絕了該請求。"</string>
     <string name="l10n_80e2ebb549050457" formatted="false">"伺服器拒絕了該請求：%@"</string>
     <string name="l10n_d2a9f8cb89bf69b7" formatted="false">"無法讀取伺服器回應。"</string>
@@ -1114,7 +1114,7 @@
     <string name="l10n_db5b076292830a46" formatted="false">"這會從 Hermes 伺服器移除該工作階段。請僅對你不再需要的工作階段執行此操作。"</string>
     <string name="l10n_dbb832a2ec8300f6" formatted="false">"此伺服器已設定。"</string>
     <string name="l10n_2f5dcf380afed4c4" formatted="false">"此伺服器需要密碼。"</string>
-    <string name="l10n_79a3dfa79821241e" formatted="false">"此伺服器使用通行密鑰登入，Hermex 暫不支援。"</string>
+    <string name="l10n_79a3dfa79821241e" formatted="false">"此伺服器使用通行密鑰登入，OLYMPUS 暫不支援。"</string>
     <string name="l10n_14585ea3d2951996" formatted="false">"此伺服器的快取工作階段和訊息將被刪除。其他伺服器及線上伺服器數據不受影響。"</string>
     <string name="l10n_2fc701428f624abe" formatted="false">"此伺服器的離線快取已清除。"</string>
     <string name="l10n_2417ab228dc86906" formatted="false">"該工作階段仍在回覆中，暫時無法移動。請待其完成後再試。"</string>
@@ -1205,7 +1205,7 @@
     <string name="l10n_0c82d065d0dd4cbf" formatted="false">"語音指令在流動應用程式中無法使用。"</string>
     <string name="l10n_c0b2cee024771a9f" formatted="false">"語音輸入"</string>
     <string name="l10n_8901e38205892216" formatted="false">"語音輸入和適合流動裝置的編輯器控制項"</string>
-    <string name="l10n_c7941f7627ecef11" formatted="false">"僅當 Hermex 處於使用中狀態時才能啟動語音輸入。"</string>
+    <string name="l10n_c7941f7627ecef11" formatted="false">"僅當 OLYMPUS 處於使用中狀態時才能啟動語音輸入。"</string>
     <string name="l10n_c001f418d6d262b7" formatted="false">"語音輸入正在準備麥克風。請稍後重試。"</string>
     <string name="l10n_1620e033ea9b6fdf" formatted="false">"由於麥克風輸入格式無效，語音輸入無法使用。"</string>
     <string name="l10n_7d747dad5f928858" formatted="false">"在變更此儲存庫之前，請等待主動回應完成。"</string>
@@ -1363,7 +1363,7 @@
     <string name="l10n_36fff63ccbcd7bf9" formatted="false">"捨棄"</string>
     <string name="l10n_663da9347806aa18" formatted="false">"檔案變更"</string>
     <string name="l10n_96e578211aa29531" formatted="false">"篩選條件"</string>
-    <string name="l10n_1ce5eec83a4626a6" formatted="false">"Hermex ??????????????????????????????? Cookie ??????"</string>
+    <string name="l10n_1ce5eec83a4626a6" formatted="false">"OLYMPUS ??????????????????????????????? Cookie ??????"</string>
     <string name="l10n_7f896a7c24b031ad" formatted="false">"不相容的 Kanban 回應"</string>
     <string name="l10n_7a4e49bc1d9b6a0e" formatted="false">"載入遠端圖片"</string>
     <string name="l10n_2563f2298c5e7405" formatted="false">"名稱：值"</string>

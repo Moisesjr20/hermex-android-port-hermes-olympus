@@ -150,7 +150,7 @@
     <string name="l10n_6a72085653e4c5be" formatted="false">"전체"</string>
     <string name="l10n_319eb3c6955636b2" formatted="false">"모든 모델..."</string>
     <string name="l10n_4745c5dce5e868dc" formatted="false">"전체 기간"</string>
-    <string name="l10n_9ff1f43b6bf2dc97" formatted="false">"Hermex에서 이미지를 저장하려면 사진 접근을 허용하세요."</string>
+    <string name="l10n_9ff1f43b6bf2dc97" formatted="false">"OLYMPUS에서 이미지를 저장하려면 사진 접근을 허용하세요."</string>
     <string name="l10n_6be2b6a83af87c2f" formatted="false">"이미 서버가 있으세요?"</string>
     <string name="l10n_bee6e08682695b15" formatted="false">"항상 어두운 아이콘 사용"</string>
     <string name="l10n_af674a970f4ac5b6" formatted="false">"항상 디스코 아이콘 사용"</string>
@@ -203,7 +203,7 @@
     <string name="l10n_76163bd10c654bd7" formatted="false">"보드 탐색: %@"</string>
     <string name="l10n_1e810b2f9f05b51a" formatted="false">"작업 공간을 둘러보고 에이전트 작업을 놓치지 마세요."</string>
     <string name="l10n_95ae28be3160a877" formatted="false">"탐색 중"</string>
-    <string name="l10n_6a57d83c47ce5b34" formatted="false">"보드 탐색은 Hermex에만 적용됩니다. 보드를 활성화하면 공유 서버 상태가 변경됩니다."</string>
+    <string name="l10n_6a57d83c47ce5b34" formatted="false">"보드 탐색은 OLYMPUS에만 적용됩니다. 보드를 활성화하면 공유 서버 상태가 변경됩니다."</string>
     <string name="l10n_bbd80cf7e2ded5ef" formatted="false">"빌드"</string>
     <string name="l10n_7e18229655968fa8" formatted="false">"일괄 작업"</string>
     <string name="l10n_e179e26271f3e00f" formatted="false">"CLI 세션"</string>
@@ -500,10 +500,10 @@
     <string name="l10n_e95d8a1c78a2e435" formatted="false">"Hermes가 응답을 작업하고 있어요"</string>
     <string name="l10n_4f56108f827cebaf" formatted="false">"Hermes 응답 완료"</string>
     <string name="l10n_d1cadaea84c1198b" formatted="false">"Hermes 세션"</string>
-    <string name="l10n_77cde96ca2d45d01" formatted="false">"Hermex"</string>
-    <string name="l10n_9a17d2db6a8055f7" formatted="false">"Hermex 앱에서는 보관된 보드를 복원할 수 없습니다."</string>
-    <string name="l10n_c33659f639454811" formatted="false">"Hermex가 응답을 준비하고 있어요"</string>
-    <string name="l10n_01a030be51125242" formatted="false">"Hermex가 보드를 새로 고쳤지만 워커가 시작되었는지는 확인할 수 없습니다. 디스패처를 다시 실행하기 전에 현재 보드를 검토하세요."</string>
+    <string name="l10n_77cde96ca2d45d01" formatted="false">"OLYMPUS"</string>
+    <string name="l10n_9a17d2db6a8055f7" formatted="false">"OLYMPUS 앱에서는 보관된 보드를 복원할 수 없습니다."</string>
+    <string name="l10n_c33659f639454811" formatted="false">"OLYMPUS가 응답을 준비하고 있어요"</string>
+    <string name="l10n_01a030be51125242" formatted="false">"OLYMPUS가 보드를 새로 고쳤지만 워커가 시작되었는지는 확인할 수 없습니다. 디스패처를 다시 실행하기 전에 현재 보드를 검토하세요."</string>
     <string name="l10n_bb6a69c46c4b1979" formatted="false">"첨부 파일 경로 숨기기"</string>
     <string name="l10n_2981d5547d979457" formatted="false">"보낸 메시지에 추가되는 파일 경로 줄을 숨겨요. 첨부 파일은 미리보기로 계속 표시되며, 서버는 여전히 경로를 받아요."</string>
     <string name="l10n_b1a5954a483f8f8b" formatted="false">"높음"</string>
@@ -524,7 +524,7 @@
     <string name="l10n_94dc8e4a59fafe99" formatted="false">"상호작용"</string>
     <string name="l10n_f3068db36e4be906" formatted="false">"현재 응답을 중단하고 메시지를 다음에 보내도록 대기열에 추가했어요."</string>
     <string name="l10n_3895546730917a69" formatted="false">"칸반"</string>
-    <string name="l10n_8fa296603e98b9fe" formatted="false">"Hermex 사용 중에는 Tailscale 연결을 유지하세요."</string>
+    <string name="l10n_8fa296603e98b9fe" formatted="false">"OLYMPUS 사용 중에는 Tailscale 연결을 유지하세요."</string>
     <string name="l10n_61737de78417a6fe" formatted="false">"키 구성됨"</string>
     <string name="l10n_d1c69a859a9638b2" formatted="false">"최근"</string>
     <string name="l10n_17672aec29094ac4" formatted="false">"최근 %lld일"</string>
@@ -595,7 +595,7 @@
     <string name="l10n_89c8a2851d1755cf" formatted="false">"메모리"</string>
     <string name="l10n_4779d4bcd6fb9eeb" formatted="false">"메시지 작업 실패"</string>
     <string name="l10n_8bd1e1ee0b36f619" formatted="false">"메시지 수"</string>
-    <string name="l10n_d2dbcb77dcf32674" formatted="false">"Hermex에 메시지 보내기"</string>
+    <string name="l10n_d2dbcb77dcf32674" formatted="false">"OLYMPUS에 메시지 보내기"</string>
     <string name="l10n_f1702b4686278bec" formatted="false">"메시지"</string>
     <string name="l10n_251edc0eb5a82064" formatted="false">"메타데이터"</string>
     <string name="l10n_e8cd6e3a402a74e8" formatted="false">"마이크 접근이 비활성화되어 있어요. 음성 입력을 사용하려면 설정에서 활성화하세요."</string>
@@ -681,8 +681,8 @@
     <string name="l10n_a3b004fb05b4d2cd" formatted="false">"Only the last part of this log is shown."</string>
     <string name="l10n_44a2f9655a134eb7" formatted="false">"사용자 메시지만 편집할 수 있어요."</string>
     <string name="l10n_93d3335d58377959" formatted="false">"%@ 열기"</string>
-    <string name="l10n_ec9649e469304224" formatted="false">"Hermex 설정 열기"</string>
-    <string name="l10n_37e8a532c4609b51" formatted="false">"Hermex를 새 빈 채팅으로 엽니다."</string>
+    <string name="l10n_ec9649e469304224" formatted="false">"OLYMPUS 설정 열기"</string>
+    <string name="l10n_37e8a532c4609b51" formatted="false">"OLYMPUS를 새 빈 채팅으로 엽니다."</string>
     <string name="l10n_a564332f478fdd0c" formatted="false">"첨부 파일 %@ 열기"</string>
     <string name="l10n_cae8d51df32debc8" formatted="false">"미디어 이미지 %@ 열기"</string>
     <string name="l10n_da234e594dde8f23" formatted="false">"설정을 열어요. 길게 누르면 서버를 전환해요."</string>
@@ -859,7 +859,7 @@
     <string name="l10n_0a629b6db6c76c8a" formatted="false">"오른쪽에서 왼쪽 채팅 레이아웃"</string>
     <string name="l10n_e96857c58f716104" formatted="false">"루트"</string>
     <string name="l10n_a299989ee9a1c92e" formatted="false">"디스패처 실행"</string>
-    <string name="l10n_8ab343d1eabae3ef" formatted="false">"Siri, Spotlight, 잠금 화면 또는 iPhone의 액션 버튼에서 새 채팅과 같은 Hermex 작업을 실행하세요. 액션 버튼을 사용하려면 iOS 설정을 열고 액션 버튼을 선택한 다음 단축어를 선택하고 Hermex 작업을 선택하세요."</string>
+    <string name="l10n_8ab343d1eabae3ef" formatted="false">"Siri, Spotlight, 잠금 화면 또는 iPhone의 액션 버튼에서 새 채팅과 같은 OLYMPUS 작업을 실행하세요. 액션 버튼을 사용하려면 iOS 설정을 열고 액션 버튼을 선택한 다음 단축어를 선택하고 OLYMPUS 작업을 선택하세요."</string>
     <string name="l10n_79adb123c5c0db44" formatted="false">"Run ID"</string>
     <string name="l10n_4ee85a626ff6183b" formatted="false">"지금 실행"</string>
     <string name="l10n_0e076478ac56474c" formatted="false">"병렬 작업 실행"</string>
@@ -1074,7 +1074,7 @@
     <string name="l10n_2a1b7a25a5096500" formatted="false">"서버 또는 Cloudflare 터널을 사용할 수 없어요. Mac이 켜져 있고, hermes-webui가 실행 중이며, 터널이 연결되어 있는지 확인하세요."</string>
     <string name="l10n_f8d83dbb55003db9" formatted="false">"서버가 접근을 거부했어요. 서버 비밀번호와 권한을 확인하세요."</string>
     <string name="l10n_a9c580f6eaa44ef8" formatted="false">"서버가 이 업데이트를 거부했거나 적용하지 않았습니다."</string>
-    <string name="l10n_1f649f3b878ba1a5" formatted="false">"서버가 이 디스패처 요청을 거부했습니다. Hermex는 다시 시도하지 않았습니다."</string>
+    <string name="l10n_1f649f3b878ba1a5" formatted="false">"서버가 이 디스패처 요청을 거부했습니다. OLYMPUS는 다시 시도하지 않았습니다."</string>
     <string name="l10n_3b7efcceeff317b3" formatted="false">"서버가 요청을 거부했어요."</string>
     <string name="l10n_80e2ebb549050457" formatted="false">"서버가 요청을 거부했어요: %@"</string>
     <string name="l10n_d2a9f8cb89bf69b7" formatted="false">"서버 응답을 읽을 수 없었어요."</string>
@@ -1114,7 +1114,7 @@
     <string name="l10n_db5b076292830a46" formatted="false">"Hermes 서버에서 세션을 제거해요. 더 이상 필요하지 않은 세션에만 사용하세요."</string>
     <string name="l10n_dbb832a2ec8300f6" formatted="false">"이 서버는 이미 구성되어 있어요."</string>
     <string name="l10n_2f5dcf380afed4c4" formatted="false">"이 서버는 비밀번호가 필요해요."</string>
-    <string name="l10n_79a3dfa79821241e" formatted="false">"이 서버는 패스키로 로그인하며, Hermex는 아직 지원하지 않아요."</string>
+    <string name="l10n_79a3dfa79821241e" formatted="false">"이 서버는 패스키로 로그인하며, OLYMPUS는 아직 지원하지 않아요."</string>
     <string name="l10n_14585ea3d2951996" formatted="false">"이 서버의 캐시된 세션과 메시지가 삭제돼요. 다른 서버와 온라인 서버 데이터는 영향을 받지 않아요."</string>
     <string name="l10n_2fc701428f624abe" formatted="false">"이 서버의 오프라인 캐시가 지워졌어요."</string>
     <string name="l10n_2417ab228dc86906" formatted="false">"이 세션은 아직 응답 중이라 지금은 이동할 수 없어요. 완료된 후 다시 시도하세요."</string>
@@ -1205,7 +1205,7 @@
     <string name="l10n_0c82d065d0dd4cbf" formatted="false">"음성 명령은 모바일 앱에서 사용할 수 없어요."</string>
     <string name="l10n_c0b2cee024771a9f" formatted="false">"음성 입력"</string>
     <string name="l10n_8901e38205892216" formatted="false">"음성 입력 및 모바일 친화적인 작성기 컨트롤"</string>
-    <string name="l10n_c7941f7627ecef11" formatted="false">"음성 입력은 Hermex가 활성 상태일 때만 시작할 수 있어요."</string>
+    <string name="l10n_c7941f7627ecef11" formatted="false">"음성 입력은 OLYMPUS가 활성 상태일 때만 시작할 수 있어요."</string>
     <string name="l10n_c001f418d6d262b7" formatted="false">"음성 입력이 이미 마이크를 준비하고 있어요. 잠시 후 다시 시도하세요."</string>
     <string name="l10n_1620e033ea9b6fdf" formatted="false">"마이크 입력 형식이 잘못되어 음성 입력을 사용할 수 없어요."</string>
     <string name="l10n_7d747dad5f928858" formatted="false">"이 저장소를 변경하기 전에 활성 응답이 완료될 때까지 기다리십시오."</string>
@@ -1363,7 +1363,7 @@
     <string name="l10n_36fff63ccbcd7bf9" formatted="false">"버리기"</string>
     <string name="l10n_663da9347806aa18" formatted="false">"파일 변경 사항"</string>
     <string name="l10n_96e578211aa29531" formatted="false">"필터"</string>
-    <string name="l10n_1ce5eec83a4626a6" formatted="false">"Hermex? ???? ?? ???? ? ? ????. ????? ? ??? ??? ??, ??? ?? ? ??? ?? ??? ?????."</string>
+    <string name="l10n_1ce5eec83a4626a6" formatted="false">"OLYMPUS? ???? ?? ???? ? ? ????. ????? ? ??? ??? ??, ??? ?? ? ??? ?? ??? ?????."</string>
     <string name="l10n_7f896a7c24b031ad" formatted="false">"호환되지 않는 Kanban 응답"</string>
     <string name="l10n_7a4e49bc1d9b6a0e" formatted="false">"원격 이미지 불러오기"</string>
     <string name="l10n_2563f2298c5e7405" formatted="false">"이름: 값"</string>

@@ -364,7 +364,7 @@ private fun WelcomeHero(
         )
         Image(
             painter = painterResource(R.drawable.hermex_app_icon),
-            contentDescription = "Hermex",
+            contentDescription = "OLYMPUS",
             contentScale = ContentScale.Fit,
             modifier = Modifier
                 .size(iconSize)
@@ -624,7 +624,7 @@ private fun OnboardingAgentPromptPage(
                 onClick = {
                     val clipboard = context.getSystemService(Context.CLIPBOARD_SERVICE) as ClipboardManager
                     clipboard.setPrimaryClip(
-                        ClipData.newPlainText("Hermex agent setup", OnboardingFlowPolicy.AgentSetupPrompt),
+                        ClipData.newPlainText("OLYMPUS agent setup", OnboardingFlowPolicy.AgentSetupPrompt),
                     )
                     onCopy()
                 },
@@ -653,7 +653,7 @@ private fun OnboardingTailscalePage() {
         Column(verticalArrangement = Arrangement.spacedBy(14.dp)) {
             TailscaleStep("1", "Install Tailscale from Google Play.")
             TailscaleStep("2", "Sign in with the same account you used on your server.")
-            TailscaleStep("3", "Keep Tailscale connected while using Hermex.")
+            TailscaleStep("3", "Keep Tailscale connected while using OLYMPUS.")
             OnboardingActionButton(
                 label = localizedString("Get Tailscale on Google Play"),
                 icon = R.drawable.ic_hermex_external_link,

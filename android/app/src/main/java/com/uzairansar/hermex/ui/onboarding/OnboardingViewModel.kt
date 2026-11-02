@@ -63,7 +63,7 @@ class OnboardingViewModel(
                         it.copy(
                             isBusy = false,
                             message = if (passkeyOnly) {
-                                "This server signs in with passkeys, which Hermex doesn't support yet."
+                                "This server signs in with passkeys, which OLYMPUS doesn't support yet."
                             } else if (status.authEnabled == true) {
                                 "Connection ok. Password required."
                             } else {

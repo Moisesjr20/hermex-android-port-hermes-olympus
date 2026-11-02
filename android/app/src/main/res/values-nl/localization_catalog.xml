@@ -150,7 +150,7 @@
     <string name="l10n_6a72085653e4c5be" formatted="false">"Alle"</string>
     <string name="l10n_319eb3c6955636b2" formatted="false">"Alle modellen..."</string>
     <string name="l10n_4745c5dce5e868dc" formatted="false">"Aller tijden"</string>
-    <string name="l10n_9ff1f43b6bf2dc97" formatted="false">"Sta toegang tot Foto's toe om afbeeldingen uit Hermex op te slaan."</string>
+    <string name="l10n_9ff1f43b6bf2dc97" formatted="false">"Sta toegang tot Foto's toe om afbeeldingen uit OLYMPUS op te slaan."</string>
     <string name="l10n_6be2b6a83af87c2f" formatted="false">"Heeft u al een server?"</string>
     <string name="l10n_bee6e08682695b15" formatted="false">"Gebruik altijd het donkere pictogram"</string>
     <string name="l10n_af674a970f4ac5b6" formatted="false">"Gebruik altijd het disco-pictogram"</string>
@@ -203,7 +203,7 @@
     <string name="l10n_76163bd10c654bd7" formatted="false">"Bord bekijken: %@"</string>
     <string name="l10n_1e810b2f9f05b51a" formatted="false">"Blader door werkruimten en blijf op de hoogte van het agent-werk."</string>
     <string name="l10n_95ae28be3160a877" formatted="false">"Bekeken"</string>
-    <string name="l10n_6a57d83c47ce5b34" formatted="false">"Een bord bekijken blijft lokaal in Hermex. Een bord actief maken wijzigt de gedeelde serverstatus."</string>
+    <string name="l10n_6a57d83c47ce5b34" formatted="false">"Een bord bekijken blijft lokaal in OLYMPUS. Een bord actief maken wijzigt de gedeelde serverstatus."</string>
     <string name="l10n_bbd80cf7e2ded5ef" formatted="false">"Build"</string>
     <string name="l10n_7e18229655968fa8" formatted="false">"Bulkacties"</string>
     <string name="l10n_e179e26271f3e00f" formatted="false">"CLI-sessies"</string>
@@ -500,10 +500,10 @@
     <string name="l10n_e95d8a1c78a2e435" formatted="false">"Hermes werkt aan het antwoord"</string>
     <string name="l10n_4f56108f827cebaf" formatted="false">"Hermes-antwoord voltooid"</string>
     <string name="l10n_d1cadaea84c1198b" formatted="false">"Hermes-sessie"</string>
-    <string name="l10n_77cde96ca2d45d01" formatted="false">"Hermex"</string>
-    <string name="l10n_9a17d2db6a8055f7" formatted="false">"Hermex kan een gearchiveerd bord niet in de app herstellen."</string>
-    <string name="l10n_c33659f639454811" formatted="false">"Hermex bereidt een antwoord voor"</string>
-    <string name="l10n_01a030be51125242" formatted="false">"Hermex heeft het bord vernieuwd, maar kan niet bevestigen of workers zijn gestart. Controleer het huidige bord voordat je de dispatcher opnieuw uitvoert."</string>
+    <string name="l10n_77cde96ca2d45d01" formatted="false">"OLYMPUS"</string>
+    <string name="l10n_9a17d2db6a8055f7" formatted="false">"OLYMPUS kan een gearchiveerd bord niet in de app herstellen."</string>
+    <string name="l10n_c33659f639454811" formatted="false">"OLYMPUS bereidt een antwoord voor"</string>
+    <string name="l10n_01a030be51125242" formatted="false">"OLYMPUS heeft het bord vernieuwd, maar kan niet bevestigen of workers zijn gestart. Controleer het huidige bord voordat je de dispatcher opnieuw uitvoert."</string>
     <string name="l10n_bb6a69c46c4b1979" formatted="false">"Bijlagepaden verbergen"</string>
     <string name="l10n_2981d5547d979457" formatted="false">"Verbergt de toegevoegde bestandspadregel in uw verzonden berichten. Bijlagen verschijnen nog steeds als voorbeelden en de server ontvangt de paden nog steeds."</string>
     <string name="l10n_b1a5954a483f8f8b" formatted="false">"Hoog"</string>
@@ -524,7 +524,7 @@
     <string name="l10n_94dc8e4a59fafe99" formatted="false">"Interactie"</string>
     <string name="l10n_f3068db36e4be906" formatted="false">"Het huidige antwoord is onderbroken en uw bericht is in de wachtrij gezet om als volgende te verzenden."</string>
     <string name="l10n_3895546730917a69" formatted="false">"Kanban"</string>
-    <string name="l10n_8fa296603e98b9fe" formatted="false">"Houd Tailscale verbonden terwijl u Hermex gebruikt."</string>
+    <string name="l10n_8fa296603e98b9fe" formatted="false">"Houd Tailscale verbonden terwijl u OLYMPUS gebruikt."</string>
     <string name="l10n_61737de78417a6fe" formatted="false">"Sleutel geconfigureerd"</string>
     <string name="l10n_d1c69a859a9638b2" formatted="false">"Laatste"</string>
     <string name="l10n_17672aec29094ac4" formatted="false">"Laatste %lld dagen"</string>
@@ -595,7 +595,7 @@
     <string name="l10n_89c8a2851d1755cf" formatted="false">"Geheugen"</string>
     <string name="l10n_4779d4bcd6fb9eeb" formatted="false">"Berichtactie mislukt"</string>
     <string name="l10n_8bd1e1ee0b36f619" formatted="false">"Aantal berichten"</string>
-    <string name="l10n_d2dbcb77dcf32674" formatted="false">"Bericht aan Hermex"</string>
+    <string name="l10n_d2dbcb77dcf32674" formatted="false">"Bericht aan OLYMPUS"</string>
     <string name="l10n_f1702b4686278bec" formatted="false">"Berichten"</string>
     <string name="l10n_251edc0eb5a82064" formatted="false">"Metagegevens"</string>
     <string name="l10n_e8cd6e3a402a74e8" formatted="false">"Microfoontoegang is uitgeschakeld. Schakel deze in bij Instellingen om spraakinvoer te gebruiken."</string>
@@ -681,8 +681,8 @@
     <string name="l10n_a3b004fb05b4d2cd" formatted="false">"Only the last part of this log is shown."</string>
     <string name="l10n_44a2f9655a134eb7" formatted="false">"Alleen gebruikersberichten kunnen worden bewerkt."</string>
     <string name="l10n_93d3335d58377959" formatted="false">"%@ openen"</string>
-    <string name="l10n_ec9649e469304224" formatted="false">"Hermex-instellingen openen"</string>
-    <string name="l10n_37e8a532c4609b51" formatted="false">"Opent Hermex in een nieuwe, lege chat."</string>
+    <string name="l10n_ec9649e469304224" formatted="false">"OLYMPUS-instellingen openen"</string>
+    <string name="l10n_37e8a532c4609b51" formatted="false">"Opent OLYMPUS in een nieuwe, lege chat."</string>
     <string name="l10n_a564332f478fdd0c" formatted="false">"Bijlage %@ openen"</string>
     <string name="l10n_cae8d51df32debc8" formatted="false">"Media-afbeelding %@ openen"</string>
     <string name="l10n_da234e594dde8f23" formatted="false">"Opent Instellingen. Houd ingedrukt om van server te wisselen."</string>
@@ -859,7 +859,7 @@
     <string name="l10n_0a629b6db6c76c8a" formatted="false">"Chatindeling van rechts naar links"</string>
     <string name="l10n_e96857c58f716104" formatted="false">"Hoofdmap"</string>
     <string name="l10n_a299989ee9a1c92e" formatted="false">"Dispatcher uitvoeren"</string>
-    <string name="l10n_8ab343d1eabae3ef" formatted="false">"Voer Hermex-acties zoals Nieuwe chat uit via Siri, Spotlight, het toegangsscherm of de actieknop van de iPhone. Om de actieknop te gebruiken, open je de iOS-instellingen, kies je Actieknop, selecteer je Opdracht en vervolgens een Hermex-actie."</string>
+    <string name="l10n_8ab343d1eabae3ef" formatted="false">"Voer OLYMPUS-acties zoals Nieuwe chat uit via Siri, Spotlight, het toegangsscherm of de actieknop van de iPhone. Om de actieknop te gebruiken, open je de iOS-instellingen, kies je Actieknop, selecteer je Opdracht en vervolgens een OLYMPUS-actie."</string>
     <string name="l10n_79adb123c5c0db44" formatted="false">"Run ID"</string>
     <string name="l10n_4ee85a626ff6183b" formatted="false">"Nu uitvoeren"</string>
     <string name="l10n_0e076478ac56474c" formatted="false">"Een parallelle taak uitvoeren"</string>
@@ -1074,7 +1074,7 @@
     <string name="l10n_2a1b7a25a5096500" formatted="false">"De server of Cloudflare-tunnel is niet beschikbaar. Controleer of de Mac wakker is, hermes-webui actief is en de tunnel is verbonden."</string>
     <string name="l10n_f8d83dbb55003db9" formatted="false">"De server weigerde toegang. Controleer het serverwachtwoord en de machtigingen."</string>
     <string name="l10n_a9c580f6eaa44ef8" formatted="false">"De server heeft deze update geweigerd of niet toegepast."</string>
-    <string name="l10n_1f649f3b878ba1a5" formatted="false">"De server heeft dit dispatcher-verzoek geweigerd. Hermex heeft het niet opnieuw geprobeerd."</string>
+    <string name="l10n_1f649f3b878ba1a5" formatted="false">"De server heeft dit dispatcher-verzoek geweigerd. OLYMPUS heeft het niet opnieuw geprobeerd."</string>
     <string name="l10n_3b7efcceeff317b3" formatted="false">"De server heeft het verzoek geweigerd."</string>
     <string name="l10n_80e2ebb549050457" formatted="false">"De server heeft het verzoek geweigerd: %@"</string>
     <string name="l10n_d2a9f8cb89bf69b7" formatted="false">"Het serverantwoord kon niet worden gelezen."</string>
@@ -1114,7 +1114,7 @@
     <string name="l10n_db5b076292830a46" formatted="false">"Hiermee wordt de sessie van de Hermes-server verwijderd. Gebruik dit alleen voor een sessie die u niet meer nodig hebt."</string>
     <string name="l10n_dbb832a2ec8300f6" formatted="false">"Deze server is al geconfigureerd."</string>
     <string name="l10n_2f5dcf380afed4c4" formatted="false">"Deze server vereist een wachtwoord."</string>
-    <string name="l10n_79a3dfa79821241e" formatted="false">"Deze server logt in met passkeys, die Hermex nog niet ondersteunt."</string>
+    <string name="l10n_79a3dfa79821241e" formatted="false">"Deze server logt in met passkeys, die OLYMPUS nog niet ondersteunt."</string>
     <string name="l10n_14585ea3d2951996" formatted="false">"De in de cache opgeslagen sessies en berichten van deze server worden verwijderd. Andere servers en onlineservergegevens worden niet beïnvloed."</string>
     <string name="l10n_2fc701428f624abe" formatted="false">"De offlinecache van deze server is gewist."</string>
     <string name="l10n_2417ab228dc86906" formatted="false">"Deze sessie is nog aan het antwoorden en kan daarom nog niet worden verplaatst. Probeer het opnieuw zodra deze klaar is."</string>
@@ -1205,7 +1205,7 @@
     <string name="l10n_0c82d065d0dd4cbf" formatted="false">"Spraakopdrachten zijn niet beschikbaar in de mobiele app."</string>
     <string name="l10n_c0b2cee024771a9f" formatted="false">"Spraakinvoer"</string>
     <string name="l10n_8901e38205892216" formatted="false">"Spraakinvoer en mobielvriendelijke opstelbedieningen"</string>
-    <string name="l10n_c7941f7627ecef11" formatted="false">"Spraakinvoer kan alleen starten terwijl Hermex actief is."</string>
+    <string name="l10n_c7941f7627ecef11" formatted="false">"Spraakinvoer kan alleen starten terwijl OLYMPUS actief is."</string>
     <string name="l10n_c001f418d6d262b7" formatted="false">"Spraakinvoer is de microfoon al aan het voorbereiden. Probeer het zo meteen opnieuw."</string>
     <string name="l10n_1620e033ea9b6fdf" formatted="false">"Spraakinvoer is niet beschikbaar omdat het invoerformaat van de microfoon ongeldig is."</string>
     <string name="l10n_7d747dad5f928858" formatted="false">"Wacht tot het actieve antwoord is voltooid voordat u deze opslagplaats wijzigt."</string>
@@ -1363,7 +1363,7 @@
     <string name="l10n_36fff63ccbcd7bf9" formatted="false">"Verwerpen"</string>
     <string name="l10n_663da9347806aa18" formatted="false">"Bestandswijzigingen"</string>
     <string name="l10n_96e578211aa29531" formatted="false">"Filters"</string>
-    <string name="l10n_1ce5eec83a4626a6" formatted="false">"Hermex kon de versleutelde accountgegevens niet openen. Bij opnieuw instellen worden opgeslagen servers, aanmeldcookies en aangepaste headers van dit apparaat verwijderd."</string>
+    <string name="l10n_1ce5eec83a4626a6" formatted="false">"OLYMPUS kon de versleutelde accountgegevens niet openen. Bij opnieuw instellen worden opgeslagen servers, aanmeldcookies en aangepaste headers van dit apparaat verwijderd."</string>
     <string name="l10n_7f896a7c24b031ad" formatted="false">"Incompatibel Kanban-antwoord"</string>
     <string name="l10n_7a4e49bc1d9b6a0e" formatted="false">"Externe afbeelding laden"</string>
     <string name="l10n_2563f2298c5e7405" formatted="false">"Naam: waarde"</string>

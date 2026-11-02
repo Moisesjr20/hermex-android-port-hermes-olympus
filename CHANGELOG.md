@@ -3,6 +3,40 @@
 Mudanças notáveis desde o fork do upstream `Hungbocluaqua/hermex-android-port`.
 Formato segue [Keep a Changelog](https://keepachangelog.com/).
 
+## v1.2.0-olympus.0 (2026-11-02) — versionCode 110
+
+Fecha o rebrand visual: APK v1.1.3 ainda renderizava o wordmark pixel-art
+HERMEX dourado no drawer e deixava 270 strings localizadas com "Hermex" em
+18 idiomas. Esta release elimina.
+
+### Added
+- **Wordmark OLYMPUS vetorial** (`ic_olympus_bolt.xml` + `Text` composable
+  black-weight) substituindo as 4 camadas PNG `hermes_fill_mask / highlight /
+  outline_shadow / shading_overlay` que compunham o letreiro HERMEX.
+- Paleta brand em `colors.xml`: `olympus_navy #0A1628`, `olympus_navy_deep`,
+  `olympus_orange #F59E0B`, `olympus_amber #FBBF24`.
+- `HermexColors.OlympusNavy / OlympusOrange / OlympusAmber` em `HermexChrome.kt`.
+
+### Changed
+- `HermesHeaderLogo` composable reescrito — raio de Zeus (vector) + texto
+  "OLYMPUS" (letterSpacing 4sp, FontWeight.Black), tint default
+  `OlympusOrange`. Zero PNG, escala sem perda.
+- `HermexColors.HeaderGold` agora aliasa `OlympusAmber` (`#FBBF24`) em vez do
+  dourado `#FFD700` — todos os call sites existentes migram automaticamente.
+- Launcher backgrounds dark/mono/disco/gradient: `#060607 / #000000 / #010101`
+  → `#0A1628` (navy OLYMPUS consistente).
+- **270 strings de UI** em `localization_catalog.xml` (18 locales: ar, en, he,
+  pl, pt-BR, tr, zh-HK etc) com "Hermex" → "OLYMPUS".
+- `OnboardingRoute.kt` + `OnboardingViewModel.kt`: literais "Hermex" residuais
+  no clipboard label, Tailscale step e passkey error → "OLYMPUS".
+
+### Removed
+- `drawable-nodpi/hermes_fill_mask.png` (22 KB)
+- `drawable-nodpi/hermes_highlight.png` (29 KB)
+- `drawable-nodpi/hermes_outline_shadow.png` (148 KB)
+- `drawable-nodpi/hermes_shading_overlay.png` (45 KB)
+- `contentDescription = "HERMEX"` → `"OLYMPUS"` no logo header.
+
 ## v1.1.3-olympus.1 (2026-10-31) — versionCode 100
 
 ### Added
